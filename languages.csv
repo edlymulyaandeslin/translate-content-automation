@@ -1,0 +1,239 @@
+code,language_name
+ab,Abkhaz
+aa,Afar
+af,Afrikaans
+ak,Akan
+akk,Akkadia
+sq,Albania
+am,Amharik
+ar,Arab
+arc,Aram
+hy,Armenia
+frp,Arpitan
+as,Assam
+ay,Aymara
+az,Azerbaijani
+ase,Bahasa Isyarat Amerika
+bm,Bambara
+ba,Bashkir
+eu,Basque
+nl,Belanda
+nl-NL,Belanda (Belanda)
+nl-BE,Belanda (Belgia)
+be,Belarusia
+bn,Bengali
+bn-IN,Bengali (India)
+bh,Bhojpuri
+bi,Bislama
+brx,Bodo
+bs,Bosnia
+br,Breton
+bg,Bulgaria
+my,Burma
+cs,Ceko
+chr,Cherokee
+da,Dansk
+doi,Dogri
+dz,Dzongkha
+eo,Esperanto
+et,Estonia
+ee,Ewe
+fo,Faroe
+fj,Fiji
+fil,Filipino
+fy,Frisia Barat
+ff,Fula
+gd,Gaelik Skotlandia
+gl,Galisia
+lg,Ganda
+ka,Georgia
+gn,Guarani
+gu,Gujarat
+guz,Gusii
+hak,hak
+hak-TW,hak (Taiwan)
+bgc,Haryanvi
+ha,Hausa
+haw,Hawaii
+hi,Hindi
+hi-Latn,Hindi (Latin)
+ho,Hiri Motu
+hu,Hungaria
+iw,Ibrani
+ig,Igbo
+id,Indonesia
+en,Inggris
+en-US,Inggris (Amerika Serikat)
+en-AU,Inggris (Australia)
+en-IN,Inggris (India)
+en-GB,Inggris (Inggris Raya)
+en-IE,Inggris (Irlandia)
+en-CA,Inggris (Kanada)
+ia,Interlingua
+ie,Interlingue
+iu,Inuktitut
+ik,Inupiak
+ga,Irlandia
+is,Islandia
+it,Italia
+jv,Jawa
+ja,Jepang
+de,Jerman
+de-AT,Jerman (Austria)
+de-DE,Jerman (Jerman)
+de-CH,Jerman (Swiss)
+kl,Kalaallisut
+kln,Kalenjin
+kam,Kamba
+kn,Kannada
+yue,Kanton
+yue-HK,Kanton (Hong Kong)
+ks,Kashmir
+ca,Katalan
+kk,Kazakh
+km,Khmer
+ki,Kikuyu
+rw,Kinyarwanda
+ky,Kirgiz
+tlh,Klingon
+cho,Koktaw
+kok,Konkani
+cop,Koptik
+ko,Korea
+co,Korsika
+cr,Kree
+ht,Kreol Haiti
+hr,Kroasia
+ku,Kurdi
+lad,Ladino
+lo,Lao
+la,Latin
+lv,Latvia
+ln,Lingala
+lt,Lituania
+jbo,Lojban
+lu,Luba-Katanga
+lb,Luksemburg
+luo,Luo
+luy,Luyia
+mai,Maithili
+mk,Makedonia
+mg,Malagasi
+ml,Malayalam
+mt,Malta
+mni,Manipuri
+mi,Maori
+mr,Marathi
+mas,Masai
+ms,Melayu
+ms-SG,Melayu (Singapura)
+mer,Meru
+mxp,Mixe
+lus,Mizo
+mn,Mongolia
+mn-Mong,Mongolia (Mongolia)
+nan,nan
+nan-TW,nan (Taiwan)
+na,Nauru
+nv,Navajo
+nr,Ndebele Selatan
+nd,Ndebele Utara
+ne,Nepali
+no,Norwegia
+or,Oriya
+om,Oromo
+oc,Ositania
+pap,Papiamento
+ps,Pashto
+fa,Persia
+fa-AF,Persia (Afganistan)
+fa-IR,Persia (Iran)
+pcm,Pidgin Nigeria
+pl,Polski
+pt,Portugis
+pt-BR,Portugis (Brasil)
+pt-PT,Portugis (Portugal)
+fr,Prancis
+fr-BE,Prancis (Belgia)
+fr-CA,Prancis (Kanada)
+fr-FR,Prancis (Prancis)
+fr-CH,Prancis (Swiss)
+pa,Punjabi
+qu,Quechua
+rm,Reto-Roman
+ro,Rumania
+mo,Rumania (Moldova)
+rn,Rundi
+ru,Rusia
+ru-Latn,Rusia (Latin)
+sm,Samoa
+sg,Sango
+sa,Sanskerta
+sat,Santali
+sc,Sardinia
+sr,Serbia
+sr-Latn,Serbia (Latin)
+sr-Cyrl,Serbia (Sirilik)
+sh,Serbo-Kroasia
+sdp,Sherdukpen
+sn,Shona
+sd,Sindhi
+si,Sinhala
+scn,Sisilia
+sk,Slovak
+sl,Slovenia
+so,Somalia
+dsb,Sorbia Hilir
+hsb,Sorbia Hulu
+st,Sotho Selatan
+nso,Sotho Utara
+es,Spanyol
+es-419,Spanyol (Amerika Latin)
+es-US,Spanyol (Amerika Serikat)
+es-MX,Spanyol (Meksiko)
+es-ES,Spanyol (Spanyol)
+su,Sunda
+fi,Suomi
+sw,Swahili
+ss,Swati
+sv,Swedia
+tl,Tagalog
+tg,Tajik
+ta,Tamil
+tt,Tatar
+te,Telugu
+th,Thai
+bo,Tibet
+ti,Tigrinya
+zh,Tionghoa
+zh-HK,Tionghoa (Hong Kong)
+zh-Hans,Tionghoa (Sederhana)
+zh-SG,Tionghoa (Singapura)
+zh-TW,Tionghoa (Taiwan)
+zh-CN,Tionghoa (Tiongkok)
+zh-Hant,Tionghoa (Tradisional)
+tpi,Tok Pisin
+tok,Toki Pona
+to,Tonga
+ts,Tsonga
+tn,Tswana
+tr,Turki
+tk,Turkmen
+tw,Twi
+uk,Ukraina
+ur,Urdu
+ug,Uyghur
+uz,Uzbek
+ve,Venda
+vi,Vietnam
+vo,Volapuk
+vro,vro
+wal,Walamo
+wa,Walloon
+cy,Welsh
+wo,Wolof
+xh,Xhosa
+yi,Yiddish
+yo,Yoruba
+el,Yunani
+zu,Zulu
