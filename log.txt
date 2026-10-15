@@ -21,3 +21,353 @@
 2026-10-15 23:06:15: Process translating to Belanda (Belanda)
 2026-10-15 23:15:31: Start Transleting!
 2026-10-15 23:15:31: Process translating to Abkhaz
+2026-10-15 23:21:39: Start Transleting!
+2026-10-15 23:21:39: Process translating to Abkhaz
+2026-10-15 23:22:00: Process translating to Afar
+2026-10-15 23:22:23: Process translating to Afrikaans
+2026-10-15 23:22:45: Process translating to Akan
+2026-10-15 23:23:09: Process translating to Akkadia
+2026-10-15 23:23:34: Process translating to Albania
+2026-10-15 23:23:57: Process translating to Amharik
+2026-10-15 23:24:20: Process translating to Arab
+2026-10-15 23:24:43: Process translating to Aram
+2026-10-15 23:25:07: Process translating to Armenia
+2026-10-15 23:25:32: Process translating to Arpitan
+2026-10-15 23:25:56: Process translating to Assam
+2026-10-15 23:26:19: Process translating to Aymara
+2026-10-15 23:31:20: Start Transleting!
+2026-10-15 23:31:20: 1 - translating to Abkhaz language
+2026-10-15 23:31:37: 2 - translating to Afar language
+2026-10-15 23:31:56: 3 - translating to Afrikaans language
+2026-10-15 23:32:13: 4 - translating to Akan language
+2026-10-15 23:32:31: 5 - translating to Akkadia language
+2026-10-15 23:32:48: 6 - translating to Albania language
+2026-10-15 23:33:09: 7 - translating to Amharik language
+2026-10-15 23:33:25: 8 - translating to Arab language
+2026-10-15 23:33:42: 9 - translating to Aram language
+2026-10-15 23:34:00: 10 - translating to Armenia language
+2026-10-15 23:34:16: 11 - translating to Arpitan language
+2026-10-15 23:34:34: 12 - translating to Assam language
+2026-10-15 23:34:51: 13 - translating to Aymara language
+2026-10-15 23:35:08: 14 - translating to Azerbaijani language
+2026-10-15 23:35:25: 15 - translating to Bahasa Isyarat Amerika language
+2026-10-15 23:35:42: 16 - translating to Bambara language
+2026-10-15 23:36:12: Start Transleting!
+2026-10-15 23:36:12: 1 - translating to Abkhaz language
+2026-10-15 23:36:30: 2 - translating to Afar language
+2026-10-15 23:36:48: 3 - translating to Afrikaans language
+2026-10-15 23:37:13: ERROR translating to Afrikaans language: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff6180a5805]
+	(No symbol) [0x7ff617fc7d50]
+	(No symbol) [0x7ff617de46dd]
+	(No symbol) [0x7ff617e3fff1]
+	(No symbol) [0x7ff617e402bc]
+	(No symbol) [0x7ff617e98857]
+	(No symbol) [0x7ff617e954e1]
+	(No symbol) [0x7ff617e31d52]
+	(No symbol) [0x7ff617e32b63]
+	(No symbol) [0x7ff6184c8531]
+	(No symbol) [0x7ff6184f430b]
+	(No symbol) [0x7ff6184e823e]
+	(No symbol) [0x7ff6181a523e]
+	(No symbol) [0x7ff617fd57a5]
+	(No symbol) [0x7ff617fd07e4]
+	(No symbol) [0x7ff617fd0974]
+	(No symbol) [0x7ff617fbb5fc]
+	(No symbol) [0x7ffdfc6c53e0]
+	(No symbol) [0x7ffdfcda485b]
+
+2026-10-15 23:41:07: Start Transleting!
+2026-10-15 23:41:07: 1 - translating to Abkhaz language
+2026-10-15 23:41:28: Translation content completed!
+2026-10-15 23:41:28: 2 - translating to Afar language
+2026-10-15 23:41:28: ERROR translating to Afar language: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff6180a5805]
+	(No symbol) [0x7ff617fc7d50]
+	(No symbol) [0x7ff617de44d6]
+	(No symbol) [0x7ff617e30e53]
+	(No symbol) [0x7ff617e692e2]
+	(No symbol) [0x7ff617e630a2]
+	(No symbol) [0x7ff617e62823]
+	(No symbol) [0x7ff617dac8eb]
+	(No symbol) [0x7ff617dacf52]
+	(No symbol) [0x7ff617dad585]
+	(No symbol) [0x7ff6184c8531]
+	(No symbol) [0x7ff6184f430b]
+	(No symbol) [0x7ff6184e823e]
+	(No symbol) [0x7ff6181a523e]
+	(No symbol) [0x7ff617fd57a5]
+	(No symbol) [0x7ff617dabd1a]
+	(No symbol) [0x7ff61854e53f]
+	(No symbol) [0x7ffdfc6c53e0]
+	(No symbol) [0x7ffdfcda485b]
+
+2026-10-15 23:44:24: Start Transleting!
+2026-10-15 23:44:24: 1 - translating to Abkhaz language
+2026-10-15 23:44:43: 2 - translating to Afar language
+2026-10-15 23:45:00: 3 - translating to Afrikaans language
+2026-10-15 23:45:17: 4 - translating to Akan language
+2026-10-15 23:45:35: 5 - translating to Akkadia language
+2026-10-15 23:45:52: 6 - translating to Albania language
+2026-10-15 23:46:10: 7 - translating to Amharik language
+2026-10-15 23:46:27: 8 - translating to Arab language
+2026-10-15 23:46:45: 9 - translating to Aram language
+2026-10-15 23:47:00: 10 - translating to Armenia language
+2026-10-15 23:47:18: 11 - translating to Arpitan language
+2026-10-15 23:47:36: 12 - translating to Assam language
+2026-10-15 23:47:54: 13 - translating to Aymara language
+2026-10-15 23:48:12: 14 - translating to Azerbaijani language
+2026-10-15 23:48:31: 15 - translating to Bahasa Isyarat Amerika language
+2026-10-15 23:48:50: 16 - translating to Bambara language
+2026-10-15 23:49:07: 17 - translating to Bashkir language
+2026-10-15 23:49:26: 18 - translating to Basque language
+2026-10-15 23:49:43: 19 - translating to Belanda language
+2026-10-15 23:50:00: 20 - translating to Belanda (Belanda) language
+2026-10-15 23:50:17: 21 - translating to Belanda (Belgia) language
+2026-10-15 23:50:35: 22 - translating to Belarusia language
+2026-10-15 23:50:53: 23 - translating to Bengali language
+2026-10-15 23:51:11: 24 - translating to Bengali (India) language
+2026-10-15 23:51:29: 25 - translating to Bhojpuri language
+2026-10-15 23:51:46: 26 - translating to Bislama language
+2026-10-15 23:52:04: 27 - translating to Bodo language
+2026-10-15 23:52:22: 28 - translating to Bosnia language
+2026-10-15 23:52:39: 29 - translating to Breton language
+2026-10-15 23:52:57: 30 - translating to Bulgaria language
+2026-10-15 23:53:14: 31 - translating to Burma language
+2026-10-15 23:53:33: 32 - translating to Ceko language
+2026-10-15 23:53:49: 33 - translating to Cherokee language
+2026-10-15 23:54:07: 34 - translating to Dansk language
+2026-10-15 23:54:24: 35 - translating to Dogri language
+2026-10-15 23:54:42: 36 - translating to Dzongkha language
+2026-10-15 23:55:00: 37 - translating to Esperanto language
+2026-10-15 23:55:16: 38 - translating to Estonia language
+2026-10-15 23:55:33: 39 - translating to Ewe language
+2026-10-15 23:55:51: 40 - translating to Faroe language
+2026-10-15 23:56:10: 41 - translating to Fiji language
+2026-10-15 23:56:36: 42 - translating to Filipino language
+2026-10-15 23:56:55: 43 - translating to Frisia Barat language
+2026-10-15 23:57:13: 44 - translating to Fula language
+2026-10-15 23:57:31: 45 - translating to Gaelik Skotlandia language
+2026-10-15 23:57:48: 46 - translating to Galisia language
+2026-10-15 23:58:07: 47 - translating to Ganda language
+2026-10-15 23:58:25: 48 - translating to Georgia language
+2026-10-15 23:58:44: 49 - translating to Guarani language
+2026-10-15 23:59:01: 50 - translating to Gujarat language
+2026-10-15 23:59:20: 51 - translating to Gusii language
+2026-10-15 23:59:38: 52 - translating to hak language
+2026-10-15 23:59:56: 53 - translating to hak (Taiwan) language
+2026-10-16 00:00:14: 54 - translating to Haryanvi language
+2026-10-16 00:00:32: 55 - translating to Hausa language
+2026-10-16 00:00:50: 56 - translating to Hawaii language
+2026-10-16 00:01:08: 57 - translating to Hindi language
+2026-10-16 00:01:25: 58 - translating to Hindi (Latin) language
+2026-10-16 00:01:42: 59 - translating to Hiri Motu language
+2026-10-16 00:01:58: 60 - translating to Hungaria language
+2026-10-16 00:02:18: 61 - translating to Ibrani language
+2026-10-16 00:02:36: 62 - translating to Igbo language
+2026-10-16 00:02:53: 63 - translating to Indonesia language
+2026-10-16 00:03:11: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-16 00:03:29: 66 - translating to Inggris (Australia) language
+2026-10-16 00:03:48: 67 - translating to Inggris (India) language
+2026-10-16 00:04:06: 68 - translating to Inggris (Inggris Raya) language
+2026-10-16 00:04:22: 69 - translating to Inggris (Irlandia) language
+2026-10-16 00:04:41: 70 - translating to Inggris (Kanada) language
+2026-10-16 00:04:58: 71 - translating to Interlingua language
+2026-10-16 00:05:15: 72 - translating to Interlingue language
+2026-10-16 00:05:33: 73 - translating to Inuktitut language
+2026-10-16 00:05:51: 74 - translating to Inupiak language
+2026-10-16 00:06:09: 75 - translating to Irlandia language
+2026-10-16 00:06:27: 76 - translating to Islandia language
+2026-10-16 00:06:46: 77 - translating to Italia language
+2026-10-16 00:07:05: 78 - translating to Jawa language
+2026-10-16 00:07:24: 79 - translating to Jepang language
+2026-10-16 00:07:42: 80 - translating to Jerman language
+2026-10-16 00:08:00: 81 - translating to Jerman (Austria) language
+2026-10-16 00:08:19: 82 - translating to Jerman (Jerman) language
+2026-10-16 00:08:36: 83 - translating to Jerman (Swiss) language
+2026-10-16 00:08:54: 84 - translating to Kalaallisut language
+2026-10-16 00:09:12: 85 - translating to Kalenjin language
+2026-10-16 00:09:30: 86 - translating to Kamba language
+2026-10-16 00:09:48: 87 - translating to Kannada language
+2026-10-16 00:10:08: 88 - translating to Kanton language
+2026-10-16 00:10:27: 89 - translating to Kanton (Hong Kong) language
+2026-10-16 00:10:43: 90 - translating to Kashmir language
+2026-10-16 00:11:00: 91 - translating to Katalan language
+2026-10-16 00:11:18: 92 - translating to Kazakh language
+2026-10-16 00:11:36: 93 - translating to Khmer language
+2026-10-16 00:11:54: 94 - translating to Kikuyu language
+2026-10-16 00:12:12: 95 - translating to Kinyarwanda language
+2026-10-16 00:12:27: 96 - translating to Kirgiz language
+2026-10-16 00:12:46: 97 - translating to Klingon language
+2026-10-16 00:13:04: 98 - translating to Koktaw language
+2026-10-16 00:13:21: 99 - translating to Konkani language
+2026-10-16 00:13:39: 100 - translating to Koptik language
+2026-10-16 00:13:57: 101 - translating to Korea language
+2026-10-16 00:14:17: 102 - translating to Korsika language
+2026-10-16 00:14:35: 103 - translating to Kree language
+2026-10-16 00:14:55: 104 - translating to Kreol Haiti language
+2026-10-16 00:15:19: 105 - translating to Kroasia language
+2026-10-16 00:15:47: 106 - translating to Kurdi language
+2026-10-16 00:16:15: 107 - translating to Ladino language
+2026-10-16 00:16:33: 108 - translating to Lao language
+2026-10-16 00:16:49: 109 - translating to Latin language
+2026-10-16 00:17:05: 110 - translating to Latvia language
+2026-10-16 00:17:24: 111 - translating to Lingala language
+2026-10-16 00:17:42: 112 - translating to Lituania language
+2026-10-16 00:17:59: 113 - translating to Lojban language
+2026-10-16 00:18:15: 114 - translating to Luba-Katanga language
+2026-10-16 00:18:30: 115 - translating to Luksemburg language
+2026-10-16 00:18:47: 116 - translating to Luo language
+2026-10-16 00:19:05: 117 - translating to Luyia language
+2026-10-16 00:19:22: 118 - translating to Maithili language
+2026-10-16 00:19:41: 119 - translating to Makedonia language
+2026-10-16 00:19:59: 120 - translating to Malagasi language
+2026-10-16 00:20:17: 121 - translating to Malayalam language
+2026-10-16 00:20:34: 122 - translating to Malta language
+2026-10-16 00:20:51: 123 - translating to Manipuri language
+2026-10-16 00:21:09: 124 - translating to Maori language
+2026-10-16 00:21:26: 125 - translating to Marathi language
+2026-10-16 00:21:44: 126 - translating to Masai language
+2026-10-16 00:22:01: 127 - translating to Melayu language
+2026-10-16 00:22:21: 128 - translating to Melayu (Singapura) language
+2026-10-16 00:22:39: 129 - translating to Meru language
+2026-10-16 00:22:56: 130 - translating to Mixe language
+2026-10-16 00:23:16: 131 - translating to Mizo language
+2026-10-16 00:23:37: 132 - translating to Mongolia language
+2026-10-16 00:23:56: 133 - translating to Mongolia (Mongolia) language
+2026-10-16 00:24:14: 134 - translating to nan language
+2026-10-16 00:24:31: 135 - translating to nan (Taiwan) language
+2026-10-16 00:24:50: 136 - translating to Nauru language
+2026-10-16 00:25:11: 137 - translating to Navajo language
+2026-10-16 00:25:29: 138 - translating to Ndebele Selatan language
+2026-10-16 00:25:48: 139 - translating to Ndebele Utara language
+2026-10-16 00:26:05: 140 - translating to Nepali language
+2026-10-16 00:26:22: 141 - translating to Norwegia language
+2026-10-16 00:26:43: 142 - translating to Oriya language
+2026-10-16 00:27:01: 143 - translating to Oromo language
+2026-10-16 00:27:19: 144 - translating to Ositania language
+2026-10-16 00:27:40: 145 - translating to Papiamento language
+2026-10-16 00:27:59: 146 - translating to Pashto language
+2026-10-16 00:28:17: 147 - translating to Persia language
+2026-10-16 00:28:35: 148 - translating to Persia (Afganistan) language
+2026-10-16 00:28:54: 149 - translating to Persia (Iran) language
+2026-10-16 00:29:12: 150 - translating to Pidgin Nigeria language
+2026-10-16 00:29:30: 151 - translating to Polski language
+2026-10-16 00:29:48: 152 - translating to Portugis language
+2026-10-16 00:30:06: 153 - translating to Portugis (Brasil) language
+2026-10-16 00:30:24: 154 - translating to Portugis (Portugal) language
+2026-10-16 00:30:43: 155 - translating to Prancis language
+2026-10-16 00:31:01: 156 - translating to Prancis (Belgia) language
+2026-10-16 00:31:19: 157 - translating to Prancis (Kanada) language
+2026-10-16 00:31:38: 158 - translating to Prancis (Prancis) language
+2026-10-16 00:31:56: 159 - translating to Prancis (Swiss) language
+2026-10-16 00:32:15: 160 - translating to Punjabi language
+2026-10-16 00:32:34: 161 - translating to Quechua language
+2026-10-16 00:32:52: 162 - translating to Reto-Roman language
+2026-10-16 00:33:09: 163 - translating to Rumania language
+2026-10-16 00:33:27: 164 - translating to Rumania (Moldova) language
+2026-10-16 00:33:45: 165 - translating to Rundi language
+2026-10-16 00:34:04: 166 - translating to Rusia language
+2026-10-16 00:34:24: 167 - translating to Rusia (Latin) language
+2026-10-16 00:34:42: 168 - translating to Samoa language
+2026-10-16 00:34:59: 169 - translating to Sango language
+2026-10-16 00:35:19: 170 - translating to Sanskerta language
+2026-10-16 00:35:39: 171 - translating to Santali language
+2026-10-16 00:35:57: 172 - translating to Sardinia language
+2026-10-16 00:36:14: 173 - translating to Serbia language
+2026-10-16 00:36:33: 174 - translating to Serbia (Latin) language
+2026-10-16 00:36:52: 175 - translating to Serbia (Sirilik) language
+2026-10-16 00:37:13: 176 - translating to Serbo-Kroasia language
+2026-10-16 00:37:36: 177 - translating to Sherdukpen language
+2026-10-16 00:37:57: 178 - translating to Shona language
+2026-10-16 00:38:17: 179 - translating to Sindhi language
+2026-10-16 00:38:36: 180 - translating to Sinhala language
+2026-10-16 00:38:57: 181 - translating to Sisilia language
+2026-10-16 00:39:15: 182 - translating to Slovak language
+2026-10-16 00:39:33: 183 - translating to Slovenia language
+2026-10-16 00:39:55: 184 - translating to Somalia language
+2026-10-16 00:40:14: 185 - translating to Sorbia Hilir language
+2026-10-16 00:40:32: 186 - translating to Sorbia Hulu language
+2026-10-16 00:40:51: 187 - translating to Sotho Selatan language
+2026-10-16 00:41:09: 188 - translating to Sotho Utara language
+2026-10-16 00:41:27: 189 - translating to Spanyol language
+2026-10-16 00:41:48: 190 - translating to Spanyol (Amerika Latin) language
+2026-10-16 00:42:07: 191 - translating to Spanyol (Amerika Serikat) language
+2026-10-16 00:42:24: 192 - translating to Spanyol (Meksiko) language
+2026-10-16 00:42:42: 193 - translating to Spanyol (Spanyol) language
+2026-10-16 00:43:03: 194 - translating to Sunda language
+2026-10-16 00:43:35: 195 - translating to Suomi language
+2026-10-16 00:44:09: 196 - translating to Swahili language
+2026-10-16 00:44:30: 197 - translating to Swati language
+2026-10-16 00:44:50: 198 - translating to Swedia language
+2026-10-16 00:45:09: 199 - translating to Tagalog language
+2026-10-16 00:45:27: 200 - translating to Tajik language
+2026-10-16 00:45:47: 201 - translating to Tamil language
+2026-10-16 00:46:05: 202 - translating to Tatar language
+2026-10-16 00:46:25: 203 - translating to Telugu language
+2026-10-16 00:46:43: 204 - translating to Thai language
+2026-10-16 00:47:02: 205 - translating to Tibet language
+2026-10-16 00:47:21: 206 - translating to Tigrinya language
+2026-10-16 00:47:42: 207 - translating to Tionghoa language
+2026-10-16 00:48:01: 208 - translating to Tionghoa (Hong Kong) language
+2026-10-16 00:48:20: 209 - translating to Tionghoa (Sederhana) language
+2026-10-16 00:48:38: 210 - translating to Tionghoa (Singapura) language
+2026-10-16 00:48:58: 211 - translating to Tionghoa (Taiwan) language
+2026-10-16 00:49:21: ERROR - translating to Tionghoa (Taiwan) language. e: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff6180a5805]
+	(No symbol) [0x7ff617fc7d50]
+	(No symbol) [0x7ff617de46dd]
+	(No symbol) [0x7ff617e3fff1]
+	(No symbol) [0x7ff617e402bc]
+	(No symbol) [0x7ff617e98857]
+	(No symbol) [0x7ff617e954e1]
+	(No symbol) [0x7ff617e31d52]
+	(No symbol) [0x7ff617e32b63]
+	(No symbol) [0x7ff6184c8531]
+	(No symbol) [0x7ff6184f430b]
+	(No symbol) [0x7ff6184e823e]
+	(No symbol) [0x7ff6181a523e]
+	(No symbol) [0x7ff617fd57a5]
+	(No symbol) [0x7ff617fd07e4]
+	(No symbol) [0x7ff617fd0974]
+	(No symbol) [0x7ff617fbb5fc]
+	(No symbol) [0x7ffdfc6c53e0]
+	(No symbol) [0x7ffdfcda485b]
+
+2026-10-16 00:49:21: Translation content completed!
+2026-10-16 00:54:19: Start Transleting!
+2026-10-16 00:54:19: 211 - translating to Tionghoa (Taiwan) language
+2026-10-16 00:54:39: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-16 00:54:58: 213 - translating to Tionghoa (Tradisional) language
+2026-10-16 00:55:17: 214 - translating to Tok Pisin language
+2026-10-16 00:55:36: 215 - translating to Toki Pona language
+2026-10-16 00:55:53: 216 - translating to Tonga language
+2026-10-16 00:56:10: 217 - translating to Tsonga language
+2026-10-16 00:56:29: 218 - translating to Tswana language
+2026-10-16 00:56:48: 219 - translating to Turki language
+2026-10-16 00:57:07: 220 - translating to Turkmen language
+2026-10-16 00:57:25: 221 - translating to Twi language
+2026-10-16 00:57:42: 222 - translating to Ukraina language
+2026-10-16 00:58:00: 223 - translating to Urdu language
+2026-10-16 00:58:18: 224 - translating to Uyghur language
+2026-10-16 00:58:36: 225 - translating to Uzbek language
+2026-10-16 00:58:54: 226 - translating to Venda language
+2026-10-16 00:59:12: 227 - translating to Vietnam language
+2026-10-16 00:59:31: 228 - translating to Volapuk language
+2026-10-16 00:59:49: 229 - translating to vro language
+2026-10-16 01:00:08: 230 - translating to Walamo language
+2026-10-16 01:00:26: 231 - translating to Walloon language
+2026-10-16 01:00:46: 232 - translating to Welsh language
+2026-10-16 01:01:04: 233 - translating to Wolof language
+2026-10-16 01:01:21: 234 - translating to Xhosa language
+2026-10-16 01:01:39: 235 - translating to Yiddish language
+2026-10-16 01:01:58: 236 - translating to Yoruba language
+2026-10-16 01:02:16: 237 - translating to Yunani language
+2026-10-16 01:02:34: 238 - translating to Zulu language
+2026-10-16 01:02:54: Translation content completed!
