@@ -1,8 +1,12 @@
+#!/usr/bin/env python
+
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from utilities.utils import root_dir
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = root_dir(Path(__file__))
+
 PROFILE_DIR = BASE_DIR / "chrome_profile"
 CHROMEDRIVER_PATH = BASE_DIR / "chromedriver.exe"
 

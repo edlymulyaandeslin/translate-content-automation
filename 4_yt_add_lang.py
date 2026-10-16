@@ -1,0 +1,109 @@
+#!/usr/bin/env python
+
+from config.selenium import By, driver, wait_for_element, wait_for_all_element, wait_and_click
+from utilities.utils import load_to_csv, read_from_csv, log_progress, delay
+
+import pandas as pd
+
+def upload_lang(driver, url, data):
+    try:
+        title = data.title
+        description = data.description
+        lang_code = data.lang_code
+        lang = data.lang
+        
+        driver.get(url)
+        
+        delay()
+        
+        btn_add_lang = wait_and_click(driver, By.CSS_SELECTOR, "button[aria-label='Tambahkan bahasa']")
+        log_progress(f"-- Tombol [{btn_add_lang.text}] di klik!")
+
+        paper_list = wait_for_element(driver, By.ID, "paper-list")
+        log_progress("-- paper_list bahasa ditemukan")
+
+        selected_lang = paper_list.find_element(By.CSS_SELECTOR, f"[test-id='{lang_code}']")
+        
+        log_progress(f"-- Scroll to element [{lang}]!")
+        driver.execute_script(
+            "arguments[0].scrollIntoView({block: 'center'});",
+            selected_lang
+        )
+        
+        delay(1, 2)
+        
+        log_progress(f"-- element [{lang}] diklik!")
+        selected_lang.click()
+        
+        delay(2, 4)
+        
+        title_container = wait_for_element(driver, By.CLASS_NAME, "ytgnLanguageDialogMetadataTitle")
+        input_title = title_container.find_element(By.ID, "textbox")
+        delay(1, 1)
+        log_progress(f"-- Input title")
+        input_title.send_keys(title)
+        
+        delay(2, 4)
+        
+        log_progress(f"-- Input description")
+        desc_container = wait_for_element(driver, By.CLASS_NAME, "ytgnLanguageDialogMetadataDescription")
+        input_desc = desc_container.find_element(By.ID, "textbox")
+        delay(1, 1)
+        input_desc.send_keys(description)
+        
+        delay(2, 4)
+        
+        # klik perbarui
+        log_progress(f"-- Perbarui di klik!")
+        wait_and_click(driver, By.CSS_SELECTOR, "button[aria-label='Perbarui']")
+        
+        delay()
+        return True
+    except Exception as e:
+        log_progress(f"-- ERROR element {lang}. error: {e}")
+        return False
+
+def extract_available(driver, url):
+    try:
+        driver.get(url)
+        
+        rows = wait_for_all_element(driver, By.CSS_SELECTOR, "td.tablecell-language")
+        
+        data = []
+        
+        for row in rows:
+            lang = row.text
+            
+            data.append(lang)
+        
+        df = pd.DataFrame(data, columns=["lang"])
+        
+        load_to_csv(df, "lang_available.csv")
+    except Exception as e:
+        log_progress(f"Error: {e}")
+        raise e
+
+url = "https://studio.youtube.com/video/OnWzR2jy36I/translations"
+
+log_progress("Read data source")
+data_source = read_from_csv("./results/data_source.csv")
+
+log_progress("Read data source")
+is_available = read_from_csv("./results/lang_available.csv")
+available_langs = set(is_available["lang"].dropna())
+
+for data in data_source.itertuples():
+    if data.lang in available_langs:
+        continue
+    
+    log_progress(f"{data.Index + 1} - Uploading [{data.lang}]")
+    success = upload_lang(driver, url, data)
+    
+    delay()
+    
+    if not success:
+        continue
+
+log_progress("Uploaded content in many lang completed!")
+
+# extract_available(driver, url)

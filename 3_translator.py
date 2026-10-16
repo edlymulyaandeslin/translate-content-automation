@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-from utils import read_from_csv, delay, log_progress
-from selenium_config import By, driver, wait_for_element
+from utilities.utils import read_from_csv, delay, log_progress
+from config.selenium import By, driver, wait_for_element
 
 import pandas as pd
 
@@ -42,19 +42,19 @@ def translate_language(title, description, language, attribs_col):
     return df
 
 def load_to_csv(df):
-    df.to_csv("./data_source.csv", index=False)
+    df.to_csv("./results/data_source.csv", index=False)
     
 def read_from_txt(filepath):
     with open(filepath, "r", encoding="utf-8") as file:
         transcript = file.read().split("\n||")
-        
+    
     return transcript
 
 ###############################################################
 # Main Function
 ###############################################################
 
-languages = read_from_csv("./languages.csv")
+languages = read_from_csv("./results/languages.csv")
 
 transcript = read_from_txt("./transcript.txt")
 
@@ -63,7 +63,7 @@ description = transcript[1]
 attribs_col = ["lang", "lang_code", "title", "description"]
 
 try:
-    df_result = pd.read_csv("./data_source.csv")
+    df_result = pd.read_csv("./results/data_source.csv")
 
     log_progress("Start Transleting!")
     for lang in languages.itertuples():
@@ -84,6 +84,3 @@ finally:
     driver.close()
     
     log_progress("Translation content completed!")
-    print("="*50)
-    print(df_result.head())
-    

@@ -3,8 +3,9 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from utilities.utils import root_dir
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = root_dir(Path(__file__))
 PROFILE_DIR = BASE_DIR / "chrome_profile"
 
 options = webdriver.ChromeOptions()
