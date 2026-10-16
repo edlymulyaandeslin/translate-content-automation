@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-from config.selenium import By, driver, wait_for_element, wait_for_all_element, wait_and_click
-from utilities.utils import load_to_csv, read_from_csv, log_progress, delay
-
-import pandas as pd
+from config.selenium import By, driver, wait_for_element, wait_and_click
+from utilities.utils import read_from_csv, log_progress, delay
 
 def upload_lang(driver, url, data):
     try:
@@ -24,15 +22,27 @@ def upload_lang(driver, url, data):
 
         selected_lang = paper_list.find_element(By.CSS_SELECTOR, f"[test-id='{lang_code}']")
         
-        log_progress(f"-- Scroll to element [{lang}]!")
-        driver.execute_script(
-            "arguments[0].scrollIntoView({block: 'center'});",
-            selected_lang
-        )
+        log_progress(f"-- Scroll to [{lang}] language!")
+        driver.execute_script("""
+            const el = arguments[0];
+            let parent = el.parentElement;
+
+            while (parent) {
+                if (parent.scrollHeight > parent.clientHeight) {
+                    parent.scrollTop =
+                        el.getBoundingClientRect().top -
+                        parent.getBoundingClientRect().top +
+                        parent.scrollTop;
+
+                    break;
+                }
+                parent = parent.parentElement;
+            }
+        """, selected_lang)
         
         delay(1, 2)
         
-        log_progress(f"-- element [{lang}] diklik!")
+        log_progress(f"-- [{lang}] language diklik!")
         selected_lang.click()
         
         delay(2, 4)
@@ -62,26 +72,6 @@ def upload_lang(driver, url, data):
     except Exception as e:
         log_progress(f"-- ERROR element {lang}. error: {e}")
         return False
-
-def extract_available(driver, url):
-    try:
-        driver.get(url)
-        
-        rows = wait_for_all_element(driver, By.CSS_SELECTOR, "td.tablecell-language")
-        
-        data = []
-        
-        for row in rows:
-            lang = row.text
-            
-            data.append(lang)
-        
-        df = pd.DataFrame(data, columns=["lang"])
-        
-        load_to_csv(df, "lang_available.csv")
-    except Exception as e:
-        log_progress(f"Error: {e}")
-        raise e
 
 url = "https://studio.youtube.com/video/OnWzR2jy36I/translations"
 
