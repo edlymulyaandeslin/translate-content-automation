@@ -2524,3 +2524,1079 @@ Symbols not available. Dumping unresolved backtrace:
 2026-10-16 23:12:18: Found 221 available language
 2026-10-16 23:12:18: Load to csv
 2026-10-16 23:12:18: Completed!
+2026-10-17 15:21:53: Start Transleting!
+2026-10-17 15:21:53: 1 - translating to Abkhaz language
+2026-10-17 15:22:10: 2 - translating to Afar language
+2026-10-17 15:22:24: 3 - translating to Afrikaans language
+2026-10-17 15:22:36: 4 - translating to Akan language
+2026-10-17 15:22:50: 5 - translating to Akkadia language
+2026-10-17 15:48:12: Start Transleting!
+2026-10-17 15:48:12: 1 - translating to Abkhaz language
+2026-10-17 15:48:33: 2 - translating to Afar language
+2026-10-17 15:48:49: 3 - translating to Afrikaans language
+2026-10-17 15:49:07: 4 - translating to Akan language
+2026-10-17 15:49:21: 5 - translating to Akkadia language
+2026-10-17 15:52:48: Start Transleting!
+2026-10-17 15:52:48: 1 - translating to Abkhaz language
+2026-10-17 15:53:04: 2 - translating to Afar language
+2026-10-17 15:53:19: 3 - translating to Afrikaans language
+2026-10-17 15:53:37: 4 - translating to Akan language
+2026-10-17 15:53:52: 5 - translating to Akkadia language
+2026-10-17 15:54:08: 6 - translating to Albania language
+2026-10-17 15:54:23: 7 - translating to Amharik language
+2026-10-17 15:54:37: 8 - translating to Arab language
+2026-10-17 15:54:53: 9 - translating to Aram language
+2026-10-17 15:55:07: 10 - translating to Armenia language
+2026-10-17 15:55:28: 11 - translating to Arpitan language
+2026-10-17 15:55:45: 12 - translating to Assam language
+2026-10-17 15:56:00: 13 - translating to Aymara language
+2026-10-17 15:56:16: 14 - translating to Azerbaijani language
+2026-10-17 15:56:35: 15 - translating to Bahasa Isyarat Amerika language
+2026-10-17 15:56:52: 16 - translating to Bambara language
+2026-10-17 15:57:12: 17 - translating to Bashkir language
+2026-10-17 15:57:27: 18 - translating to Basque language
+2026-10-17 15:58:33: ERROR - translating to Basque language. e: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff7a638e745]
+	(No symbol) [0x7ff7a5f43d00]
+	(No symbol) [0x7ff7a5d73f3d]
+	(No symbol) [0x7ff7a5dcf6ed]
+	(No symbol) [0x7ff7a5dcf9bc]
+	(No symbol) [0x7ff7a5e27ed7]
+	(No symbol) [0x7ff7a5e24b5a]
+	(No symbol) [0x7ff7a5dc1462]
+	(No symbol) [0x7ff7a5dc2273]
+	(No symbol) [0x7ff7a64317b1]
+	(No symbol) [0x7ff7a64687c7]
+	(No symbol) [0x7ff7a645c85e]
+	(No symbol) [0x7ff7a610884e]
+	(No symbol) [0x7ff7a5f50415]
+	(No symbol) [0x7ff7a5f4bdf4]
+	(No symbol) [0x7ff7a5f4bf84]
+	(No symbol) [0x7ff7a5f37f7c]
+	(No symbol) [0x7ffba6e653e0]
+	(No symbol) [0x7ffba82a485b]
+
+2026-10-17 15:58:35: Translation content completed!
+2026-10-17 16:01:59: Start Transleting!
+2026-10-17 16:01:59: 1 - translating to Abkhaz language
+2026-10-17 16:02:15: 2 - translating to Afar language
+2026-10-17 16:02:30: 3 - translating to Afrikaans language
+2026-10-17 16:04:32: Start Transleting!
+2026-10-17 16:04:32: 18 - translating to Basque language
+2026-10-17 16:04:46: 19 - translating to Belanda language
+2026-10-17 16:05:00: 20 - translating to Belanda (Belanda) language
+2026-10-17 16:05:12: 21 - translating to Belanda (Belgia) language
+2026-10-17 16:05:27: 22 - translating to Belarusia language
+2026-10-17 16:05:41: 23 - translating to Bengali language
+2026-10-17 16:05:58: 24 - translating to Bengali (India) language
+2026-10-17 16:06:13: 25 - translating to Bhojpuri language
+2026-10-17 16:06:28: 26 - translating to Bislama language
+2026-10-17 16:06:41: 27 - translating to Bodo language
+2026-10-17 16:06:54: 28 - translating to Bosnia language
+2026-10-17 16:07:06: 29 - translating to Breton language
+2026-10-17 16:07:22: 30 - translating to Bulgaria language
+2026-10-17 16:07:36: 31 - translating to Burma language
+2026-10-17 16:07:55: 32 - translating to Ceko language
+2026-10-17 16:08:09: 33 - translating to Cherokee language
+2026-10-17 16:08:23: 34 - translating to Dansk language
+2026-10-17 16:08:38: 35 - translating to Dogri language
+2026-10-17 16:08:52: 36 - translating to Dzongkha language
+2026-10-17 16:09:05: 37 - translating to Esperanto language
+2026-10-17 16:09:19: 38 - translating to Estonia language
+2026-10-17 16:09:33: 39 - translating to Ewe language
+2026-10-17 16:09:45: 40 - translating to Faroe language
+2026-10-17 16:09:58: 41 - translating to Fiji language
+2026-10-17 16:10:13: 42 - translating to Filipino language
+2026-10-17 16:10:30: 43 - translating to Frisia Barat language
+2026-10-17 16:10:44: 44 - translating to Fula language
+2026-10-17 16:10:58: 45 - translating to Gaelik Skotlandia language
+2026-10-17 16:11:23: 46 - translating to Galisia language
+2026-10-17 16:11:46: 47 - translating to Ganda language
+2026-10-17 16:12:09: 48 - translating to Georgia language
+2026-10-17 16:12:30: 49 - translating to Guarani language
+2026-10-17 16:12:46: 50 - translating to Gujarat language
+2026-10-17 16:13:00: 51 - translating to Gusii language
+2026-10-17 16:13:14: 52 - translating to hak language
+2026-10-17 16:13:27: 53 - translating to hak (Taiwan) language
+2026-10-17 16:13:39: 54 - translating to Haryanvi language
+2026-10-17 16:13:53: 55 - translating to Hausa language
+2026-10-17 16:14:07: 56 - translating to Hawaii language
+2026-10-17 16:14:20: 57 - translating to Hindi language
+2026-10-17 16:14:34: 58 - translating to Hindi (Latin) language
+2026-10-17 16:14:48: 59 - translating to Hiri Motu language
+2026-10-17 16:15:03: 60 - translating to Hungaria language
+2026-10-17 16:15:16: 61 - translating to Ibrani language
+2026-10-17 16:15:29: 62 - translating to Igbo language
+2026-10-17 16:15:43: 63 - translating to Indonesia language
+2026-10-17 16:15:57: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-17 16:16:11: 66 - translating to Inggris (Australia) language
+2026-10-17 16:16:25: 67 - translating to Inggris (India) language
+2026-10-17 16:16:39: 68 - translating to Inggris (Inggris Raya) language
+2026-10-17 16:16:53: 69 - translating to Inggris (Irlandia) language
+2026-10-17 16:17:07: 70 - translating to Inggris (Kanada) language
+2026-10-17 16:17:25: 71 - translating to Interlingua language
+2026-10-17 16:17:38: 72 - translating to Interlingue language
+2026-10-17 16:17:51: 73 - translating to Inuktitut language
+2026-10-17 16:18:05: 74 - translating to Inupiak language
+2026-10-17 16:18:18: 75 - translating to Irlandia language
+2026-10-17 16:18:32: 76 - translating to Islandia language
+2026-10-17 16:18:45: 77 - translating to Italia language
+2026-10-17 16:19:11: 78 - translating to Jawa language
+2026-10-17 16:19:23: 79 - translating to Jepang language
+2026-10-17 16:19:36: 80 - translating to Jerman language
+2026-10-17 16:19:49: 81 - translating to Jerman (Austria) language
+2026-10-17 16:20:02: 82 - translating to Jerman (Jerman) language
+2026-10-17 16:20:16: 83 - translating to Jerman (Swiss) language
+2026-10-17 16:20:29: 84 - translating to Kalaallisut language
+2026-10-17 16:20:41: 85 - translating to Kalenjin language
+2026-10-17 16:20:54: 86 - translating to Kamba language
+2026-10-17 16:21:10: 87 - translating to Kannada language
+2026-10-17 16:21:24: 88 - translating to Kanton language
+2026-10-17 16:21:39: 89 - translating to Kanton (Hong Kong) language
+2026-10-17 16:21:54: 90 - translating to Kashmir language
+2026-10-17 16:22:11: 91 - translating to Katalan language
+2026-10-17 16:22:30: 92 - translating to Kazakh language
+2026-10-17 16:22:44: 93 - translating to Khmer language
+2026-10-17 16:23:00: 94 - translating to Kikuyu language
+2026-10-17 16:23:15: 95 - translating to Kinyarwanda language
+2026-10-17 16:23:29: 96 - translating to Kirgiz language
+2026-10-17 16:23:47: 97 - translating to Klingon language
+2026-10-17 16:24:05: 98 - translating to Koktaw language
+2026-10-17 16:24:25: 99 - translating to Konkani language
+2026-10-17 16:24:41: 100 - translating to Koptik language
+2026-10-17 16:24:55: 101 - translating to Korea language
+2026-10-17 16:25:09: Translation content completed!
+2026-10-17 16:42:32: Read data source
+2026-10-17 16:42:32: Read data source
+2026-10-17 16:42:32: 48 - Uploading [hak]
+2026-10-17 16:43:42: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 16:43:42: -- paper_list bahasa ditemukan
+2026-10-17 16:43:42: -- Scroll to [hak] language!
+2026-10-17 16:43:43: -- [hak] language diklik!
+2026-10-17 16:43:47: -- Input title
+2026-10-17 16:43:51: -- Input description
+2026-10-17 16:43:56: -- Perbarui di klik!
+2026-10-17 16:44:01: 49 - Uploading [hak (Taiwan)]
+2026-10-17 16:44:29: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 16:44:29: -- paper_list bahasa ditemukan
+2026-10-17 16:44:29: -- Scroll to [hak (Taiwan)] language!
+2026-10-17 16:44:31: -- [hak (Taiwan)] language diklik!
+2026-10-17 16:44:35: -- Input title
+2026-10-17 16:44:39: -- Input description
+2026-10-17 16:44:49: -- Perbarui di klik!
+2026-10-17 16:44:54: 82 - Uploading [Kannada]
+2026-10-17 16:45:01: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 16:45:01: -- paper_list bahasa ditemukan
+2026-10-17 16:45:01: -- Scroll to [Kannada] language!
+2026-10-17 16:45:02: -- [Kannada] language diklik!
+2026-10-17 16:45:02: -- ERROR element Kannada. error: Message: element not interactable
+  (Session info: chrome=155.0.8059.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff7a638e745]
+	(No symbol) [0x7ff7a5f43d00]
+	(No symbol) [0x7ff7a5d73d36]
+	(No symbol) [0x7ff7a5dd0ee4]
+	(No symbol) [0x7ff7a5dc3278]
+	(No symbol) [0x7ff7a5df8ada]
+	(No symbol) [0x7ff7a5dc2af6]
+	(No symbol) [0x7ff7a5e24b5a]
+	(No symbol) [0x7ff7a5dc1462]
+	(No symbol) [0x7ff7a5dc2273]
+	(No symbol) [0x7ff7a64317b1]
+	(No symbol) [0x7ff7a64687c7]
+	(No symbol) [0x7ff7a645c85e]
+	(No symbol) [0x7ff7a610884e]
+	(No symbol) [0x7ff7a5f50415]
+	(No symbol) [0x7ff7a5f4bdf4]
+	(No symbol) [0x7ff7a5f4bf84]
+	(No symbol) [0x7ff7a5f37f7c]
+	(No symbol) [0x7ffba6e653e0]
+	(No symbol) [0x7ffba82a485b]
+
+2026-10-17 16:45:03: 86 - Uploading [Katalan]
+2026-10-17 16:45:12: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 16:45:12: -- paper_list bahasa ditemukan
+2026-10-17 16:45:12: -- Scroll to [Katalan] language!
+2026-10-17 16:45:13: -- [Katalan] language diklik!
+2026-10-17 16:45:13: -- ERROR element Katalan. error: Message: element not interactable
+  (Session info: chrome=155.0.8059.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff7a638e745]
+	(No symbol) [0x7ff7a5f43d00]
+	(No symbol) [0x7ff7a5d73d36]
+	(No symbol) [0x7ff7a5dd0ee4]
+	(No symbol) [0x7ff7a5dc3278]
+	(No symbol) [0x7ff7a5df8ada]
+	(No symbol) [0x7ff7a5dc2af6]
+	(No symbol) [0x7ff7a5e24b5a]
+	(No symbol) [0x7ff7a5dc1462]
+	(No symbol) [0x7ff7a5dc2273]
+	(No symbol) [0x7ff7a64317b1]
+	(No symbol) [0x7ff7a64687c7]
+	(No symbol) [0x7ff7a645c85e]
+	(No symbol) [0x7ff7a610884e]
+	(No symbol) [0x7ff7a5f50415]
+	(No symbol) [0x7ff7a5f4bdf4]
+	(No symbol) [0x7ff7a5f4bf84]
+	(No symbol) [0x7ff7a5f37f7c]
+	(No symbol) [0x7ffba6e653e0]
+	(No symbol) [0x7ffba82a485b]
+
+2026-10-17 16:45:16: Uploaded content in many lang completed!
+2026-10-17 16:45:43: Getting available language
+2026-10-17 19:03:02: Getting available language
+2026-10-17 19:03:06: Found 2 available language
+2026-10-17 19:03:06: Load to csv
+2026-10-17 19:03:06: Completed!
+2026-10-17 19:03:50: Read data source
+2026-10-17 19:03:50: Read data source
+2026-10-17 19:03:50: 1 - Uploading [Abkhaz]
+2026-10-17 19:03:56: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:03:56: -- paper_list bahasa ditemukan
+2026-10-17 19:03:56: -- Scroll to [Abkhaz] language!
+2026-10-17 19:03:57: -- [Abkhaz] language diklik!
+2026-10-17 19:04:02: -- Input title
+2026-10-17 19:04:06: -- Input description
+2026-10-17 19:04:11: -- Perbarui di klik!
+2026-10-17 19:04:16: 2 - Uploading [Afar]
+2026-10-17 19:04:21: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:04:21: -- paper_list bahasa ditemukan
+2026-10-17 19:04:21: -- Scroll to [Afar] language!
+2026-10-17 19:04:22: -- [Afar] language diklik!
+2026-10-17 19:04:26: -- Input title
+2026-10-17 19:04:30: -- Input description
+2026-10-17 19:04:35: -- Perbarui di klik!
+2026-10-17 19:04:39: 3 - Uploading [Afrikaans]
+2026-10-17 19:04:44: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:04:44: -- paper_list bahasa ditemukan
+2026-10-17 19:04:44: -- Scroll to [Afrikaans] language!
+2026-10-17 19:04:45: -- [Afrikaans] language diklik!
+2026-10-17 19:04:49: -- Input title
+2026-10-17 19:04:53: -- Input description
+2026-10-17 19:04:59: -- Perbarui di klik!
+2026-10-17 19:05:02: 4 - Uploading [Akan]
+2026-10-17 19:05:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:05:07: -- paper_list bahasa ditemukan
+2026-10-17 19:05:07: -- Scroll to [Akan] language!
+2026-10-17 19:05:09: -- [Akan] language diklik!
+2026-10-17 19:05:13: -- Input title
+2026-10-17 19:05:16: -- Input description
+2026-10-17 19:05:21: -- Perbarui di klik!
+2026-10-17 19:05:26: 5 - Uploading [Akkadia]
+2026-10-17 19:05:31: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:05:31: -- paper_list bahasa ditemukan
+2026-10-17 19:05:31: -- Scroll to [Akkadia] language!
+2026-10-17 19:05:32: -- [Akkadia] language diklik!
+2026-10-17 19:05:37: -- Input title
+2026-10-17 19:05:42: -- Input description
+2026-10-17 19:05:46: -- Perbarui di klik!
+2026-10-17 19:05:50: 6 - Uploading [Albania]
+2026-10-17 19:05:55: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:05:55: -- paper_list bahasa ditemukan
+2026-10-17 19:05:55: -- Scroll to [Albania] language!
+2026-10-17 19:05:56: -- [Albania] language diklik!
+2026-10-17 19:06:00: -- Input title
+2026-10-17 19:06:03: -- Input description
+2026-10-17 19:06:08: -- Perbarui di klik!
+2026-10-17 19:06:11: 7 - Uploading [Amharik]
+2026-10-17 19:06:17: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:06:17: -- paper_list bahasa ditemukan
+2026-10-17 19:06:17: -- Scroll to [Amharik] language!
+2026-10-17 19:06:18: -- [Amharik] language diklik!
+2026-10-17 19:06:23: -- Input title
+2026-10-17 19:06:25: -- Input description
+2026-10-17 19:06:31: -- Perbarui di klik!
+2026-10-17 19:06:35: 8 - Uploading [Arab]
+2026-10-17 19:06:40: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:06:40: -- paper_list bahasa ditemukan
+2026-10-17 19:06:40: -- Scroll to [Arab] language!
+2026-10-17 19:06:42: -- [Arab] language diklik!
+2026-10-17 19:06:47: -- Input title
+2026-10-17 19:06:50: -- Input description
+2026-10-17 19:06:56: -- Perbarui di klik!
+2026-10-17 19:07:01: 9 - Uploading [Aram]
+2026-10-17 19:07:05: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:07:05: -- paper_list bahasa ditemukan
+2026-10-17 19:07:05: -- Scroll to [Aram] language!
+2026-10-17 19:07:07: -- [Aram] language diklik!
+2026-10-17 19:07:12: -- Input title
+2026-10-17 19:07:16: -- Input description
+2026-10-17 19:07:20: -- Perbarui di klik!
+2026-10-17 19:07:24: 10 - Uploading [Armenia]
+2026-10-17 19:07:28: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:07:28: -- paper_list bahasa ditemukan
+2026-10-17 19:07:28: -- Scroll to [Armenia] language!
+2026-10-17 19:07:30: -- [Armenia] language diklik!
+2026-10-17 19:07:35: -- Input title
+2026-10-17 19:07:38: -- Input description
+2026-10-17 19:07:53: Getting available language
+2026-10-17 19:07:57: Found 7 available language
+2026-10-17 19:07:57: Load to csv
+2026-10-17 19:07:57: Completed!
+2026-10-17 19:08:49: Read data source
+2026-10-17 19:08:49: Read data source
+2026-10-17 19:08:49: 3 - Uploading [Afrikaans]
+2026-10-17 19:08:55: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:08:55: -- paper_list bahasa ditemukan
+2026-10-17 19:08:55: -- Scroll to [Afrikaans] language!
+2026-10-17 19:08:57: -- [Afrikaans] language diklik!
+2026-10-17 19:09:02: -- Input title
+2026-10-17 19:09:05: -- Input description
+2026-10-17 19:09:11: -- Perbarui di klik!
+2026-10-17 19:09:15: 4 - Uploading [Akan]
+2026-10-17 19:09:19: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:09:19: -- paper_list bahasa ditemukan
+2026-10-17 19:09:19: -- Scroll to [Akan] language!
+2026-10-17 19:09:21: -- [Akan] language diklik!
+2026-10-17 19:09:25: -- Input title
+2026-10-17 19:09:28: -- Input description
+2026-10-17 19:09:34: -- Perbarui di klik!
+2026-10-17 19:09:38: 5 - Uploading [Akkadia]
+2026-10-17 19:09:42: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:09:42: -- paper_list bahasa ditemukan
+2026-10-17 19:09:42: -- Scroll to [Akkadia] language!
+2026-10-17 19:09:44: -- [Akkadia] language diklik!
+2026-10-17 19:09:48: -- Input title
+2026-10-17 19:09:53: -- Input description
+2026-10-17 19:09:57: -- Perbarui di klik!
+2026-10-17 19:10:00: 6 - Uploading [Albania]
+2026-10-17 19:10:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:10:08: -- paper_list bahasa ditemukan
+2026-10-17 19:10:08: -- Scroll to [Albania] language!
+2026-10-17 19:10:09: -- [Albania] language diklik!
+2026-10-17 19:10:13: -- Input title
+2026-10-17 19:10:16: -- Input description
+2026-10-17 19:10:21: -- Perbarui di klik!
+2026-10-17 19:10:24: 10 - Uploading [Armenia]
+2026-10-17 19:10:28: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:10:28: -- paper_list bahasa ditemukan
+2026-10-17 19:10:28: -- Scroll to [Armenia] language!
+2026-10-17 19:10:29: -- [Armenia] language diklik!
+2026-10-17 19:10:34: -- Input title
+2026-10-17 19:10:37: -- Input description
+2026-10-17 19:10:43: -- Perbarui di klik!
+2026-10-17 19:10:46: 11 - Uploading [Arpitan]
+2026-10-17 19:10:51: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:10:51: -- paper_list bahasa ditemukan
+2026-10-17 19:10:51: -- Scroll to [Arpitan] language!
+2026-10-17 19:10:52: -- [Arpitan] language diklik!
+2026-10-17 19:10:56: -- Input title
+2026-10-17 19:10:59: -- Input description
+2026-10-17 19:11:04: -- Perbarui di klik!
+2026-10-17 19:11:08: 12 - Uploading [Assam]
+2026-10-17 19:11:13: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:11:13: -- paper_list bahasa ditemukan
+2026-10-17 19:11:13: -- Scroll to [Assam] language!
+2026-10-17 19:11:14: -- [Assam] language diklik!
+2026-10-17 19:11:19: -- Input title
+2026-10-17 19:11:24: -- Input description
+2026-10-17 19:11:29: -- Perbarui di klik!
+2026-10-17 19:11:34: 13 - Uploading [Aymara]
+2026-10-17 19:11:40: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:11:40: -- paper_list bahasa ditemukan
+2026-10-17 19:11:40: -- Scroll to [Aymara] language!
+2026-10-17 19:11:42: -- [Aymara] language diklik!
+2026-10-17 19:11:47: -- Input title
+2026-10-17 19:11:50: -- Input description
+2026-10-17 19:11:56: -- Perbarui di klik!
+2026-10-17 19:11:59: 14 - Uploading [Azerbaijani]
+2026-10-17 19:12:06: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:12:06: -- paper_list bahasa ditemukan
+2026-10-17 19:12:06: -- Scroll to [Azerbaijani] language!
+2026-10-17 19:12:07: -- [Azerbaijani] language diklik!
+2026-10-17 19:12:11: -- Input title
+2026-10-17 19:12:15: -- Input description
+2026-10-17 19:12:21: -- Perbarui di klik!
+2026-10-17 19:12:24: 15 - Uploading [Bahasa Isyarat Amerika]
+2026-10-17 19:12:29: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:12:29: -- paper_list bahasa ditemukan
+2026-10-17 19:12:29: -- Scroll to [Bahasa Isyarat Amerika] language!
+2026-10-17 19:12:30: -- [Bahasa Isyarat Amerika] language diklik!
+2026-10-17 19:12:34: -- Input title
+2026-10-17 19:12:39: -- Input description
+2026-10-17 19:12:43: -- Perbarui di klik!
+2026-10-17 19:12:47: 16 - Uploading [Bambara]
+2026-10-17 19:12:52: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:12:52: -- paper_list bahasa ditemukan
+2026-10-17 19:12:52: -- Scroll to [Bambara] language!
+2026-10-17 19:12:54: -- [Bambara] language diklik!
+2026-10-17 19:12:57: -- Input title
+2026-10-17 19:13:02: -- Input description
+2026-10-17 19:13:07: -- Perbarui di klik!
+2026-10-17 19:13:13: 17 - Uploading [Bashkir]
+2026-10-17 19:13:29: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:13:29: -- paper_list bahasa ditemukan
+2026-10-17 19:13:29: -- Scroll to [Bashkir] language!
+2026-10-17 19:13:31: -- [Bashkir] language diklik!
+2026-10-17 19:13:34: -- Input title
+2026-10-17 19:13:38: -- Input description
+2026-10-17 19:13:44: -- Perbarui di klik!
+2026-10-17 19:13:48: 18 - Uploading [Basque]
+2026-10-17 19:15:48: -- ERROR element Basque. error: HTTPConnectionPool(host='localhost', port=50428): Read timed out. (read timeout=120)
+2026-10-17 19:15:50: 19 - Uploading [Belanda]
+2026-10-17 19:32:29: Getting available language
+2026-10-17 19:33:08: Found 19 available language
+2026-10-17 19:33:08: Load to csv
+2026-10-17 19:33:08: Completed!
+2026-10-17 19:33:27: Read data source
+2026-10-17 19:33:27: Read data source
+2026-10-17 19:33:27: 18 - Uploading [Basque]
+2026-10-17 19:33:39: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:33:39: -- paper_list bahasa ditemukan
+2026-10-17 19:33:39: -- Scroll to [Basque] language!
+2026-10-17 19:33:40: -- [Basque] language diklik!
+2026-10-17 19:33:44: -- Input title
+2026-10-17 19:33:47: -- Input description
+2026-10-17 19:33:53: -- Perbarui di klik!
+2026-10-17 19:33:57: 19 - Uploading [Belanda]
+2026-10-17 19:34:01: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:34:01: -- paper_list bahasa ditemukan
+2026-10-17 19:34:01: -- Scroll to [Belanda] language!
+2026-10-17 19:34:03: -- [Belanda] language diklik!
+2026-10-17 19:34:08: -- Input title
+2026-10-17 19:34:12: -- Input description
+2026-10-17 19:34:17: -- Perbarui di klik!
+2026-10-17 19:34:21: 20 - Uploading [Belanda (Belanda)]
+2026-10-17 19:34:26: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:34:26: -- paper_list bahasa ditemukan
+2026-10-17 19:34:26: -- Scroll to [Belanda (Belanda)] language!
+2026-10-17 19:34:27: -- [Belanda (Belanda)] language diklik!
+2026-10-17 19:34:33: -- Input title
+2026-10-17 19:34:36: -- Input description
+2026-10-17 19:34:41: -- Perbarui di klik!
+2026-10-17 19:34:46: 21 - Uploading [Belanda (Belgia)]
+2026-10-17 19:34:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:34:53: -- paper_list bahasa ditemukan
+2026-10-17 19:34:53: -- Scroll to [Belanda (Belgia)] language!
+2026-10-17 19:34:55: -- [Belanda (Belgia)] language diklik!
+2026-10-17 19:34:59: -- Input title
+2026-10-17 19:35:02: -- Input description
+2026-10-17 19:35:07: -- Perbarui di klik!
+2026-10-17 19:35:11: 22 - Uploading [Belarusia]
+2026-10-17 19:35:16: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:35:16: -- paper_list bahasa ditemukan
+2026-10-17 19:35:16: -- Scroll to [Belarusia] language!
+2026-10-17 19:35:17: -- [Belarusia] language diklik!
+2026-10-17 19:35:21: -- Input title
+2026-10-17 19:35:24: -- Input description
+2026-10-17 19:35:29: -- Perbarui di klik!
+2026-10-17 19:35:33: 23 - Uploading [Bengali]
+2026-10-17 19:35:39: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:35:39: -- paper_list bahasa ditemukan
+2026-10-17 19:35:39: -- Scroll to [Bengali] language!
+2026-10-17 19:35:41: -- [Bengali] language diklik!
+2026-10-17 19:35:46: -- Input title
+2026-10-17 19:35:50: -- Input description
+2026-10-17 19:35:56: -- Perbarui di klik!
+2026-10-17 19:36:00: 24 - Uploading [Bengali (India)]
+2026-10-17 19:36:08: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:36:08: -- paper_list bahasa ditemukan
+2026-10-17 19:36:08: -- Scroll to [Bengali (India)] language!
+2026-10-17 19:36:10: -- [Bengali (India)] language diklik!
+2026-10-17 19:36:15: -- Input title
+2026-10-17 19:36:18: -- Input description
+2026-10-17 19:36:22: -- Perbarui di klik!
+2026-10-17 19:36:24: 25 - Uploading [Bhojpuri]
+2026-10-17 19:36:30: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:36:30: -- paper_list bahasa ditemukan
+2026-10-17 19:36:30: -- Scroll to [Bhojpuri] language!
+2026-10-17 19:36:31: -- [Bhojpuri] language diklik!
+2026-10-17 19:36:36: -- Input title
+2026-10-17 19:36:40: -- Input description
+2026-10-17 19:36:45: -- Perbarui di klik!
+2026-10-17 19:36:50: 26 - Uploading [Bislama]
+2026-10-17 19:36:55: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:36:56: -- paper_list bahasa ditemukan
+2026-10-17 19:36:56: -- Scroll to [Bislama] language!
+2026-10-17 19:36:57: -- [Bislama] language diklik!
+2026-10-17 19:37:02: -- Input title
+2026-10-17 19:37:05: -- Input description
+2026-10-17 19:37:10: -- Perbarui di klik!
+2026-10-17 19:37:16: 27 - Uploading [Bodo]
+2026-10-17 19:37:21: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:37:21: -- paper_list bahasa ditemukan
+2026-10-17 19:37:21: -- Scroll to [Bodo] language!
+2026-10-17 19:37:23: -- [Bodo] language diklik!
+2026-10-17 19:37:28: -- Input title
+2026-10-17 19:37:31: -- Input description
+2026-10-17 19:37:37: -- Perbarui di klik!
+2026-10-17 19:37:41: 28 - Uploading [Bosnia]
+2026-10-17 19:37:46: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:37:46: -- paper_list bahasa ditemukan
+2026-10-17 19:37:46: -- Scroll to [Bosnia] language!
+2026-10-17 19:37:47: -- [Bosnia] language diklik!
+2026-10-17 19:37:52: -- Input title
+2026-10-17 19:37:55: -- Input description
+2026-10-17 19:37:59: -- Perbarui di klik!
+2026-10-17 19:38:05: 29 - Uploading [Breton]
+2026-10-17 19:38:10: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:38:11: -- paper_list bahasa ditemukan
+2026-10-17 19:38:11: -- Scroll to [Breton] language!
+2026-10-17 19:38:12: -- [Breton] language diklik!
+2026-10-17 19:38:16: -- Input title
+2026-10-17 19:38:19: -- Input description
+2026-10-17 19:38:23: -- Perbarui di klik!
+2026-10-17 19:38:27: 30 - Uploading [Bulgaria]
+2026-10-17 19:38:33: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:38:33: -- paper_list bahasa ditemukan
+2026-10-17 19:38:33: -- Scroll to [Bulgaria] language!
+2026-10-17 19:38:34: -- [Bulgaria] language diklik!
+2026-10-17 19:38:39: -- Input title
+2026-10-17 19:38:43: -- Input description
+2026-10-17 19:38:48: -- Perbarui di klik!
+2026-10-17 19:38:52: 31 - Uploading [Burma]
+2026-10-17 19:38:57: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:38:57: -- paper_list bahasa ditemukan
+2026-10-17 19:38:57: -- Scroll to [Burma] language!
+2026-10-17 19:38:58: -- [Burma] language diklik!
+2026-10-17 19:39:04: -- Input title
+2026-10-17 19:39:07: -- Input description
+2026-10-17 19:39:12: -- Perbarui di klik!
+2026-10-17 19:39:16: 32 - Uploading [Ceko]
+2026-10-17 19:39:21: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:39:21: -- paper_list bahasa ditemukan
+2026-10-17 19:39:21: -- Scroll to [Ceko] language!
+2026-10-17 19:39:23: -- [Ceko] language diklik!
+2026-10-17 19:39:27: -- Input title
+2026-10-17 19:39:31: -- Input description
+2026-10-17 19:39:36: -- Perbarui di klik!
+2026-10-17 19:39:40: 33 - Uploading [Cherokee]
+2026-10-17 19:39:46: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:39:46: -- paper_list bahasa ditemukan
+2026-10-17 19:39:46: -- Scroll to [Cherokee] language!
+2026-10-17 19:39:47: -- [Cherokee] language diklik!
+2026-10-17 19:39:52: -- Input title
+2026-10-17 19:39:55: -- Input description
+2026-10-17 19:39:59: -- Perbarui di klik!
+2026-10-17 19:40:05: 34 - Uploading [Dansk]
+2026-10-17 19:40:10: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:40:10: -- paper_list bahasa ditemukan
+2026-10-17 19:40:10: -- Scroll to [Dansk] language!
+2026-10-17 19:40:12: -- [Dansk] language diklik!
+2026-10-17 19:40:15: -- Input title
+2026-10-17 19:40:18: -- Input description
+2026-10-17 19:40:24: -- Perbarui di klik!
+2026-10-17 19:40:29: 35 - Uploading [Dogri]
+2026-10-17 19:40:36: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:40:36: -- paper_list bahasa ditemukan
+2026-10-17 19:40:36: -- Scroll to [Dogri] language!
+2026-10-17 19:40:38: -- [Dogri] language diklik!
+2026-10-17 19:40:43: -- Input title
+2026-10-17 19:40:47: -- Input description
+2026-10-17 19:40:53: -- Perbarui di klik!
+2026-10-17 19:40:58: 36 - Uploading [Dzongkha]
+2026-10-17 19:41:04: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:41:04: -- paper_list bahasa ditemukan
+2026-10-17 19:41:04: -- Scroll to [Dzongkha] language!
+2026-10-17 19:41:06: -- [Dzongkha] language diklik!
+2026-10-17 19:41:11: -- Input title
+2026-10-17 19:41:14: -- Input description
+2026-10-17 19:41:19: -- Perbarui di klik!
+2026-10-17 19:41:22: 37 - Uploading [Esperanto]
+2026-10-17 19:41:29: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:41:29: -- paper_list bahasa ditemukan
+2026-10-17 19:41:29: -- Scroll to [Esperanto] language!
+2026-10-17 19:41:30: -- [Esperanto] language diklik!
+2026-10-17 19:41:35: -- Input title
+2026-10-17 19:41:38: -- Input description
+2026-10-17 19:41:42: -- Perbarui di klik!
+2026-10-17 19:41:46: 38 - Uploading [Estonia]
+2026-10-17 19:41:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:41:53: -- paper_list bahasa ditemukan
+2026-10-17 19:41:53: -- Scroll to [Estonia] language!
+2026-10-17 19:41:55: -- [Estonia] language diklik!
+2026-10-17 19:42:00: -- Input title
+2026-10-17 19:42:02: -- Input description
+2026-10-17 19:42:07: -- Perbarui di klik!
+2026-10-17 19:42:10: 39 - Uploading [Ewe]
+2026-10-17 19:42:17: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:42:17: -- paper_list bahasa ditemukan
+2026-10-17 19:42:17: -- Scroll to [Ewe] language!
+2026-10-17 19:42:19: -- [Ewe] language diklik!
+2026-10-17 19:42:22: -- Input title
+2026-10-17 19:42:27: -- Input description
+2026-10-17 19:42:32: -- Perbarui di klik!
+2026-10-17 19:42:35: 40 - Uploading [Faroe]
+2026-10-17 19:42:40: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:42:40: -- paper_list bahasa ditemukan
+2026-10-17 19:42:40: -- Scroll to [Faroe] language!
+2026-10-17 19:42:42: -- [Faroe] language diklik!
+2026-10-17 19:42:47: -- Input title
+2026-10-17 19:42:50: -- Input description
+2026-10-17 19:42:54: -- Perbarui di klik!
+2026-10-17 19:43:00: 41 - Uploading [Fiji]
+2026-10-17 19:43:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:43:07: -- paper_list bahasa ditemukan
+2026-10-17 19:43:07: -- Scroll to [Fiji] language!
+2026-10-17 19:43:08: -- [Fiji] language diklik!
+2026-10-17 19:43:12: -- Input title
+2026-10-17 19:43:16: -- Input description
+2026-10-17 19:43:20: -- Perbarui di klik!
+2026-10-17 19:43:25: 42 - Uploading [Filipino]
+2026-10-17 19:43:32: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:43:32: -- paper_list bahasa ditemukan
+2026-10-17 19:43:32: -- Scroll to [Filipino] language!
+2026-10-17 19:43:34: -- [Filipino] language diklik!
+2026-10-17 19:43:38: -- Input title
+2026-10-17 19:43:40: -- Input description
+2026-10-17 19:43:45: -- Perbarui di klik!
+2026-10-17 19:43:49: 43 - Uploading [Frisia Barat]
+2026-10-17 19:43:55: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:43:55: -- paper_list bahasa ditemukan
+2026-10-17 19:43:55: -- Scroll to [Frisia Barat] language!
+2026-10-17 19:43:56: -- [Frisia Barat] language diklik!
+2026-10-17 19:44:00: -- Input title
+2026-10-17 19:44:04: -- Input description
+2026-10-17 19:44:09: -- Perbarui di klik!
+2026-10-17 19:44:14: 44 - Uploading [Fula]
+2026-10-17 19:44:22: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:44:22: -- paper_list bahasa ditemukan
+2026-10-17 19:44:22: -- Scroll to [Fula] language!
+2026-10-17 19:44:23: -- [Fula] language diklik!
+2026-10-17 19:44:28: -- Input title
+2026-10-17 19:44:31: -- Input description
+2026-10-17 19:44:35: -- Perbarui di klik!
+2026-10-17 19:44:39: 45 - Uploading [Guarani]
+2026-10-17 19:44:44: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:44:44: -- paper_list bahasa ditemukan
+2026-10-17 19:44:44: -- Scroll to [Guarani] language!
+2026-10-17 19:44:45: -- [Guarani] language diklik!
+2026-10-17 19:44:49: -- Input title
+2026-10-17 19:44:53: -- Input description
+2026-10-17 19:44:57: -- Perbarui di klik!
+2026-10-17 19:45:02: 46 - Uploading [Gujarat]
+2026-10-17 19:45:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:45:07: -- paper_list bahasa ditemukan
+2026-10-17 19:45:07: -- Scroll to [Gujarat] language!
+2026-10-17 19:45:09: -- [Gujarat] language diklik!
+2026-10-17 19:45:14: -- Input title
+2026-10-17 19:45:17: -- Input description
+2026-10-17 19:45:21: -- Perbarui di klik!
+2026-10-17 19:45:26: 47 - Uploading [Gusii]
+2026-10-17 19:45:31: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:45:31: -- paper_list bahasa ditemukan
+2026-10-17 19:45:31: -- Scroll to [Gusii] language!
+2026-10-17 19:45:32: -- [Gusii] language diklik!
+2026-10-17 19:45:36: -- Input title
+2026-10-17 19:45:40: -- Input description
+2026-10-17 19:45:45: -- Perbarui di klik!
+2026-10-17 19:45:50: 48 - Uploading [hak]
+2026-10-17 19:45:56: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:45:56: -- paper_list bahasa ditemukan
+2026-10-17 19:45:56: -- Scroll to [hak] language!
+2026-10-17 19:45:57: -- [hak] language diklik!
+2026-10-17 19:46:02: -- Input title
+2026-10-17 19:46:05: -- Input description
+2026-10-17 19:46:10: -- Perbarui di klik!
+2026-10-17 19:46:15: 49 - Uploading [hak (Taiwan)]
+2026-10-17 19:46:22: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:46:22: -- paper_list bahasa ditemukan
+2026-10-17 19:46:22: -- Scroll to [hak (Taiwan)] language!
+2026-10-17 19:46:24: -- [hak (Taiwan)] language diklik!
+2026-10-17 19:46:28: -- Input title
+2026-10-17 19:46:31: -- Input description
+2026-10-17 19:46:35: -- Perbarui di klik!
+2026-10-17 19:46:41: 50 - Uploading [Haryanvi]
+2026-10-17 19:46:48: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:46:48: -- paper_list bahasa ditemukan
+2026-10-17 19:46:48: -- Scroll to [Haryanvi] language!
+2026-10-17 19:46:50: -- [Haryanvi] language diklik!
+2026-10-17 19:46:54: -- Input title
+2026-10-17 19:46:56: -- Input description
+2026-10-17 19:47:01: -- Perbarui di klik!
+2026-10-17 19:47:04: 51 - Uploading [Hausa]
+2026-10-17 19:47:12: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:47:12: -- paper_list bahasa ditemukan
+2026-10-17 19:47:12: -- Scroll to [Hausa] language!
+2026-10-17 19:47:14: -- [Hausa] language diklik!
+2026-10-17 19:47:19: -- Input title
+2026-10-17 19:47:22: -- Input description
+2026-10-17 19:47:28: -- Perbarui di klik!
+2026-10-17 19:47:31: 52 - Uploading [Hawaii]
+2026-10-17 19:47:38: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:47:38: -- paper_list bahasa ditemukan
+2026-10-17 19:47:38: -- Scroll to [Hawaii] language!
+2026-10-17 19:47:39: -- [Hawaii] language diklik!
+2026-10-17 19:47:44: -- Input title
+2026-10-17 19:47:47: -- Input description
+2026-10-17 19:47:51: -- Perbarui di klik!
+2026-10-17 19:47:57: 53 - Uploading [Hindi]
+2026-10-17 19:48:04: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:48:05: -- paper_list bahasa ditemukan
+2026-10-17 19:48:05: -- Scroll to [Hindi] language!
+2026-10-17 19:48:06: -- [Hindi] language diklik!
+2026-10-17 19:48:10: -- Input title
+2026-10-17 19:48:13: -- Input description
+2026-10-17 19:48:19: -- Perbarui di klik!
+2026-10-17 19:48:24: 54 - Uploading [Hindi (Latin)]
+2026-10-17 19:48:30: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:48:30: -- paper_list bahasa ditemukan
+2026-10-17 19:48:30: -- Scroll to [Hindi (Latin)] language!
+2026-10-17 19:48:32: -- [Hindi (Latin)] language diklik!
+2026-10-17 19:48:37: -- Input title
+2026-10-17 19:48:41: -- Input description
+2026-10-17 19:48:45: -- Perbarui di klik!
+2026-10-17 19:48:48: 55 - Uploading [Hiri Motu]
+2026-10-17 19:48:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:48:53: -- paper_list bahasa ditemukan
+2026-10-17 19:48:53: -- Scroll to [Hiri Motu] language!
+2026-10-17 19:48:55: -- [Hiri Motu] language diklik!
+2026-10-17 19:48:58: -- Input title
+2026-10-17 19:49:02: -- Input description
+2026-10-17 19:49:07: -- Perbarui di klik!
+2026-10-17 19:49:12: 56 - Uploading [Hungaria]
+2026-10-17 19:49:21: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:49:21: -- paper_list bahasa ditemukan
+2026-10-17 19:49:21: -- Scroll to [Hungaria] language!
+2026-10-17 19:49:22: -- [Hungaria] language diklik!
+2026-10-17 19:49:26: -- Input title
+2026-10-17 19:49:29: -- Input description
+2026-10-17 19:49:33: -- Perbarui di klik!
+2026-10-17 19:49:38: 57 - Uploading [Ibrani]
+2026-10-17 19:49:46: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:49:46: -- paper_list bahasa ditemukan
+2026-10-17 19:49:46: -- Scroll to [Ibrani] language!
+2026-10-17 19:49:48: -- [Ibrani] language diklik!
+2026-10-17 19:49:54: -- Input title
+2026-10-17 19:49:57: -- Input description
+2026-10-17 19:50:02: -- Perbarui di klik!
+2026-10-17 19:50:06: 58 - Uploading [Igbo]
+2026-10-17 19:50:13: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:50:13: -- paper_list bahasa ditemukan
+2026-10-17 19:50:13: -- Scroll to [Igbo] language!
+2026-10-17 19:50:14: -- [Igbo] language diklik!
+2026-10-17 19:50:18: -- Input title
+2026-10-17 19:50:22: -- Input description
+2026-10-17 19:50:27: -- Perbarui di klik!
+2026-10-17 19:50:30: 59 - Uploading [Indonesia]
+2026-10-17 19:50:35: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:50:35: -- paper_list bahasa ditemukan
+2026-10-17 19:50:35: -- Scroll to [Indonesia] language!
+2026-10-17 19:50:37: -- [Indonesia] language diklik!
+2026-10-17 19:50:42: -- Input title
+2026-10-17 19:50:45: -- Input description
+2026-10-17 19:50:50: -- Perbarui di klik!
+2026-10-17 19:50:56: 60 - Uploading [Inggris (Amerika Serikat)]
+2026-10-17 19:51:01: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:51:01: -- paper_list bahasa ditemukan
+2026-10-17 19:51:01: -- Scroll to [Inggris (Amerika Serikat)] language!
+2026-10-17 19:51:03: -- [Inggris (Amerika Serikat)] language diklik!
+2026-10-17 19:51:07: -- Input title
+2026-10-17 19:51:10: -- Input description
+2026-10-17 19:51:16: -- Perbarui di klik!
+2026-10-17 19:51:20: 61 - Uploading [Inggris (Australia)]
+2026-10-17 19:51:26: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:51:26: -- paper_list bahasa ditemukan
+2026-10-17 19:51:26: -- Scroll to [Inggris (Australia)] language!
+2026-10-17 19:51:28: -- [Inggris (Australia)] language diklik!
+2026-10-17 19:51:33: -- Input title
+2026-10-17 19:51:37: -- Input description
+2026-10-17 19:51:42: -- Perbarui di klik!
+2026-10-17 19:51:47: 62 - Uploading [Inggris (India)]
+2026-10-17 19:51:52: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:51:52: -- paper_list bahasa ditemukan
+2026-10-17 19:51:52: -- Scroll to [Inggris (India)] language!
+2026-10-17 19:51:54: -- [Inggris (India)] language diklik!
+2026-10-17 19:51:59: -- Input title
+2026-10-17 19:52:02: -- Input description
+2026-10-17 19:52:06: -- Perbarui di klik!
+2026-10-17 19:52:10: 63 - Uploading [Inggris (Inggris Raya)]
+2026-10-17 19:52:18: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:52:18: -- paper_list bahasa ditemukan
+2026-10-17 19:52:18: -- Scroll to [Inggris (Inggris Raya)] language!
+2026-10-17 19:52:20: -- [Inggris (Inggris Raya)] language diklik!
+2026-10-17 19:52:24: -- Input title
+2026-10-17 19:52:27: -- Input description
+2026-10-17 19:52:32: -- Perbarui di klik!
+2026-10-17 19:52:35: 64 - Uploading [Inggris (Irlandia)]
+2026-10-17 19:52:41: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:52:41: -- paper_list bahasa ditemukan
+2026-10-17 19:52:41: -- Scroll to [Inggris (Irlandia)] language!
+2026-10-17 19:52:43: -- [Inggris (Irlandia)] language diklik!
+2026-10-17 19:52:47: -- Input title
+2026-10-17 19:52:50: -- Input description
+2026-10-17 19:52:55: -- Perbarui di klik!
+2026-10-17 19:53:00: 65 - Uploading [Inggris (Kanada)]
+2026-10-17 19:53:05: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:53:05: -- paper_list bahasa ditemukan
+2026-10-17 19:53:05: -- Scroll to [Inggris (Kanada)] language!
+2026-10-17 19:53:07: -- [Inggris (Kanada)] language diklik!
+2026-10-17 19:53:12: -- Input title
+2026-10-17 19:53:15: -- Input description
+2026-10-17 19:53:21: -- Perbarui di klik!
+2026-10-17 19:53:25: 66 - Uploading [Interlingua]
+2026-10-17 19:53:30: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:53:30: -- paper_list bahasa ditemukan
+2026-10-17 19:53:30: -- Scroll to [Interlingua] language!
+2026-10-17 19:53:32: -- [Interlingua] language diklik!
+2026-10-17 19:53:36: -- Input title
+2026-10-17 19:53:39: -- Input description
+2026-10-17 19:53:44: -- Perbarui di klik!
+2026-10-17 19:53:49: 67 - Uploading [Interlingue]
+2026-10-17 19:53:56: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:53:56: -- paper_list bahasa ditemukan
+2026-10-17 19:53:57: -- Scroll to [Interlingue] language!
+2026-10-17 19:53:58: -- [Interlingue] language diklik!
+2026-10-17 19:54:03: -- Input title
+2026-10-17 19:54:07: -- Input description
+2026-10-17 19:54:12: -- Perbarui di klik!
+2026-10-17 19:54:15: 68 - Uploading [Inuktitut]
+2026-10-17 19:54:21: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:54:21: -- paper_list bahasa ditemukan
+2026-10-17 19:54:21: -- Scroll to [Inuktitut] language!
+2026-10-17 19:54:22: -- [Inuktitut] language diklik!
+2026-10-17 19:54:28: -- Input title
+2026-10-17 19:54:30: -- Input description
+2026-10-17 19:54:35: -- Perbarui di klik!
+2026-10-17 19:54:39: 69 - Uploading [Inupiak]
+2026-10-17 19:54:45: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:54:45: -- paper_list bahasa ditemukan
+2026-10-17 19:54:46: -- Scroll to [Inupiak] language!
+2026-10-17 19:54:48: -- [Inupiak] language diklik!
+2026-10-17 19:54:52: -- Input title
+2026-10-17 19:54:56: -- Input description
+2026-10-17 19:55:01: -- Perbarui di klik!
+2026-10-17 19:55:05: 70 - Uploading [Irlandia]
+2026-10-17 19:55:11: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:55:11: -- paper_list bahasa ditemukan
+2026-10-17 19:55:11: -- Scroll to [Irlandia] language!
+2026-10-17 19:55:13: -- [Irlandia] language diklik!
+2026-10-17 19:55:17: -- Input title
+2026-10-17 19:55:22: -- Input description
+2026-10-17 19:55:27: -- Perbarui di klik!
+2026-10-17 19:55:34: 71 - Uploading [Islandia]
+2026-10-17 19:55:39: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:55:39: -- paper_list bahasa ditemukan
+2026-10-17 19:55:39: -- Scroll to [Islandia] language!
+2026-10-17 19:55:41: -- [Islandia] language diklik!
+2026-10-17 19:55:46: -- Input title
+2026-10-17 19:55:50: -- Input description
+2026-10-17 19:55:54: -- Perbarui di klik!
+2026-10-17 19:55:58: 72 - Uploading [Italia]
+2026-10-17 19:56:04: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:56:05: -- paper_list bahasa ditemukan
+2026-10-17 19:56:05: -- Scroll to [Italia] language!
+2026-10-17 19:56:06: -- [Italia] language diklik!
+2026-10-17 19:56:11: -- Input title
+2026-10-17 19:56:14: -- Input description
+2026-10-17 19:56:20: -- Perbarui di klik!
+2026-10-17 19:56:25: 73 - Uploading [Jawa]
+2026-10-17 19:56:30: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:56:30: -- paper_list bahasa ditemukan
+2026-10-17 19:56:31: -- Scroll to [Jawa] language!
+2026-10-17 19:56:32: -- [Jawa] language diklik!
+2026-10-17 19:56:37: -- Input title
+2026-10-17 19:56:41: -- Input description
+2026-10-17 19:56:46: -- Perbarui di klik!
+2026-10-17 19:56:49: 74 - Uploading [Jepang]
+2026-10-17 19:56:54: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:56:54: -- paper_list bahasa ditemukan
+2026-10-17 19:56:54: -- Scroll to [Jepang] language!
+2026-10-17 19:56:55: -- [Jepang] language diklik!
+2026-10-17 19:57:02: -- Input title
+2026-10-17 19:57:05: -- Input description
+2026-10-17 19:57:10: -- Perbarui di klik!
+2026-10-17 19:57:13: 75 - Uploading [Jerman]
+2026-10-17 19:57:20: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:57:20: -- paper_list bahasa ditemukan
+2026-10-17 19:57:20: -- Scroll to [Jerman] language!
+2026-10-17 19:57:22: -- [Jerman] language diklik!
+2026-10-17 19:57:27: -- Input title
+2026-10-17 19:57:31: -- Input description
+2026-10-17 19:57:36: -- Perbarui di klik!
+2026-10-17 19:57:40: 76 - Uploading [Jerman (Austria)]
+2026-10-17 19:57:46: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:57:46: -- paper_list bahasa ditemukan
+2026-10-17 19:57:46: -- Scroll to [Jerman (Austria)] language!
+2026-10-17 19:57:48: -- [Jerman (Austria)] language diklik!
+2026-10-17 19:57:52: -- Input title
+2026-10-17 19:57:55: -- Input description
+2026-10-17 19:57:59: -- Perbarui di klik!
+2026-10-17 19:58:04: 77 - Uploading [Jerman (Jerman)]
+2026-10-17 19:58:09: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:58:10: -- paper_list bahasa ditemukan
+2026-10-17 19:58:10: -- Scroll to [Jerman (Jerman)] language!
+2026-10-17 19:58:12: -- [Jerman (Jerman)] language diklik!
+2026-10-17 19:58:16: -- Input title
+2026-10-17 19:58:20: -- Input description
+2026-10-17 19:58:25: -- Perbarui di klik!
+2026-10-17 19:58:29: 78 - Uploading [Jerman (Swiss)]
+2026-10-17 19:58:35: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:58:36: -- paper_list bahasa ditemukan
+2026-10-17 19:58:36: -- Scroll to [Jerman (Swiss)] language!
+2026-10-17 19:58:37: -- [Jerman (Swiss)] language diklik!
+2026-10-17 19:58:43: -- Input title
+2026-10-17 19:58:45: -- Input description
+2026-10-17 19:58:51: -- Perbarui di klik!
+2026-10-17 19:58:55: 79 - Uploading [Kalaallisut]
+2026-10-17 19:59:00: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:59:00: -- paper_list bahasa ditemukan
+2026-10-17 19:59:00: -- Scroll to [Kalaallisut] language!
+2026-10-17 19:59:02: -- [Kalaallisut] language diklik!
+2026-10-17 19:59:06: -- Input title
+2026-10-17 19:59:11: -- Input description
+2026-10-17 19:59:17: -- Perbarui di klik!
+2026-10-17 19:59:21: 80 - Uploading [Kalenjin]
+2026-10-17 19:59:27: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:59:27: -- paper_list bahasa ditemukan
+2026-10-17 19:59:28: -- Scroll to [Kalenjin] language!
+2026-10-17 19:59:30: -- [Kalenjin] language diklik!
+2026-10-17 19:59:35: -- Input title
+2026-10-17 19:59:39: -- Input description
+2026-10-17 19:59:44: -- Perbarui di klik!
+2026-10-17 19:59:48: 81 - Uploading [Kamba]
+2026-10-17 19:59:57: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 19:59:57: -- paper_list bahasa ditemukan
+2026-10-17 19:59:57: -- Scroll to [Kamba] language!
+2026-10-17 19:59:59: -- [Kamba] language diklik!
+2026-10-17 20:00:04: -- Input title
+2026-10-17 20:00:08: -- Input description
+2026-10-17 20:00:13: -- Perbarui di klik!
+2026-10-17 20:00:17: 82 - Uploading [Kannada]
+2026-10-17 20:00:24: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:00:24: -- paper_list bahasa ditemukan
+2026-10-17 20:00:24: -- Scroll to [Kannada] language!
+2026-10-17 20:00:25: -- [Kannada] language diklik!
+2026-10-17 20:00:30: -- Input title
+2026-10-17 20:00:34: -- Input description
+2026-10-17 20:00:38: -- Perbarui di klik!
+2026-10-17 20:00:41: 83 - Uploading [Kanton]
+2026-10-17 20:00:49: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:00:50: -- paper_list bahasa ditemukan
+2026-10-17 20:00:50: -- Scroll to [Kanton] language!
+2026-10-17 20:00:51: -- [Kanton] language diklik!
+2026-10-17 20:00:56: -- Input title
+2026-10-17 20:01:00: -- Input description
+2026-10-17 20:01:05: -- Perbarui di klik!
+2026-10-17 20:01:10: 84 - Uploading [Kanton (Hong Kong)]
+2026-10-17 20:01:18: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:01:18: -- paper_list bahasa ditemukan
+2026-10-17 20:01:18: -- Scroll to [Kanton (Hong Kong)] language!
+2026-10-17 20:01:19: -- [Kanton (Hong Kong)] language diklik!
+2026-10-17 20:01:24: -- Input title
+2026-10-17 20:01:26: -- Input description
+2026-10-17 20:01:31: -- Perbarui di klik!
+2026-10-17 20:01:37: 85 - Uploading [Kashmir]
+2026-10-17 20:01:45: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:01:45: -- paper_list bahasa ditemukan
+2026-10-17 20:01:45: -- Scroll to [Kashmir] language!
+2026-10-17 20:01:46: -- [Kashmir] language diklik!
+2026-10-17 20:01:50: -- Input title
+2026-10-17 20:01:53: -- Input description
+2026-10-17 20:01:57: -- Perbarui di klik!
+2026-10-17 20:02:02: 86 - Uploading [Katalan]
+2026-10-17 20:02:08: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:02:08: -- paper_list bahasa ditemukan
+2026-10-17 20:02:08: -- Scroll to [Katalan] language!
+2026-10-17 20:02:09: -- [Katalan] language diklik!
+2026-10-17 20:02:13: -- Input title
+2026-10-17 20:02:17: -- Input description
+2026-10-17 20:02:22: -- Perbarui di klik!
+2026-10-17 20:02:27: 87 - Uploading [Kazakh]
+2026-10-17 20:02:33: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:02:33: -- paper_list bahasa ditemukan
+2026-10-17 20:02:33: -- Scroll to [Kazakh] language!
+2026-10-17 20:02:35: -- [Kazakh] language diklik!
+2026-10-17 20:02:40: -- Input title
+2026-10-17 20:02:44: -- Input description
+2026-10-17 20:02:49: -- Perbarui di klik!
+2026-10-17 20:02:55: 88 - Uploading [Khmer]
+2026-10-17 20:03:02: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:03:02: -- paper_list bahasa ditemukan
+2026-10-17 20:03:02: -- Scroll to [Khmer] language!
+2026-10-17 20:03:03: -- [Khmer] language diklik!
+2026-10-17 20:03:08: -- Input title
+2026-10-17 20:03:13: -- Input description
+2026-10-17 20:03:17: -- Perbarui di klik!
+2026-10-17 20:03:23: 89 - Uploading [Kikuyu]
+2026-10-17 20:03:29: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:03:29: -- paper_list bahasa ditemukan
+2026-10-17 20:03:29: -- Scroll to [Kikuyu] language!
+2026-10-17 20:03:31: -- [Kikuyu] language diklik!
+2026-10-17 20:03:35: -- Input title
+2026-10-17 20:03:40: -- Input description
+2026-10-17 20:03:44: -- Perbarui di klik!
+2026-10-17 20:03:47: 90 - Uploading [Kinyarwanda]
+2026-10-17 20:03:54: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:03:54: -- paper_list bahasa ditemukan
+2026-10-17 20:03:54: -- Scroll to [Kinyarwanda] language!
+2026-10-17 20:03:56: -- [Kinyarwanda] language diklik!
+2026-10-17 20:04:00: -- Input title
+2026-10-17 20:04:04: -- Input description
+2026-10-17 20:04:09: -- Perbarui di klik!
+2026-10-17 20:04:14: 91 - Uploading [Kirgiz]
+2026-10-17 20:04:20: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:04:20: -- paper_list bahasa ditemukan
+2026-10-17 20:04:20: -- Scroll to [Kirgiz] language!
+2026-10-17 20:04:22: -- [Kirgiz] language diklik!
+2026-10-17 20:04:27: -- Input title
+2026-10-17 20:04:31: -- Input description
+2026-10-17 20:04:35: -- Perbarui di klik!
+2026-10-17 20:04:40: 92 - Uploading [Klingon]
+2026-10-17 20:04:46: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:04:46: -- paper_list bahasa ditemukan
+2026-10-17 20:04:46: -- Scroll to [Klingon] language!
+2026-10-17 20:04:48: -- [Klingon] language diklik!
+2026-10-17 20:04:52: -- Input title
+2026-10-17 20:04:55: -- Input description
+2026-10-17 20:05:00: -- Perbarui di klik!
+2026-10-17 20:05:04: 93 - Uploading [Koktaw]
+2026-10-17 20:05:10: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:05:11: -- paper_list bahasa ditemukan
+2026-10-17 20:05:11: -- Scroll to [Koktaw] language!
+2026-10-17 20:05:12: -- [Koktaw] language diklik!
+2026-10-17 20:05:18: -- Input title
+2026-10-17 20:05:21: -- Input description
+2026-10-17 20:05:27: -- Perbarui di klik!
+2026-10-17 20:05:30: 94 - Uploading [Konkani]
+2026-10-17 20:05:37: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:05:37: -- paper_list bahasa ditemukan
+2026-10-17 20:05:37: -- Scroll to [Konkani] language!
+2026-10-17 20:05:38: -- [Konkani] language diklik!
+2026-10-17 20:05:43: -- Input title
+2026-10-17 20:05:46: -- Input description
+2026-10-17 20:05:50: -- Perbarui di klik!
+2026-10-17 20:05:54: 95 - Uploading [Koptik]
+2026-10-17 20:06:00: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:06:00: -- paper_list bahasa ditemukan
+2026-10-17 20:06:00: -- Scroll to [Koptik] language!
+2026-10-17 20:06:01: -- [Koptik] language diklik!
+2026-10-17 20:06:05: -- Input title
+2026-10-17 20:06:08: -- Input description
+2026-10-17 20:06:12: -- Perbarui di klik!
+2026-10-17 20:06:15: 96 - Uploading [Korea]
+2026-10-17 20:06:21: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 20:06:21: -- paper_list bahasa ditemukan
+2026-10-17 20:06:21: -- Scroll to [Korea] language!
+2026-10-17 20:06:23: -- [Korea] language diklik!
+2026-10-17 20:06:27: -- Input title
+2026-10-17 20:06:30: -- Input description
+2026-10-17 20:06:34: -- Perbarui di klik!
+2026-10-17 20:06:39: Uploaded content in many lang completed!
+2026-10-17 21:02:14: Getting available language
+2026-10-17 21:02:22: Found 96 available language
+2026-10-17 21:02:22: Load to csv
+2026-10-17 21:02:22: Completed!
+2026-10-17 21:02:40: Read data source
+2026-10-17 21:02:40: Read data source
+2026-10-17 21:02:40: 48 - Uploading [hak]
+2026-10-17 21:02:47: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 21:02:47: -- paper_list bahasa ditemukan
+2026-10-17 21:02:47: -- Scroll to [hak] language!
+2026-10-17 21:02:48: -- [hak] language diklik!
+2026-10-17 21:02:53: -- Input title
+2026-10-17 21:02:57: -- Input description
+2026-10-17 21:03:03: -- Perbarui di klik!
+2026-10-17 21:03:06: 49 - Uploading [hak (Taiwan)]
+2026-10-17 21:03:14: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-17 21:03:14: -- paper_list bahasa ditemukan
+2026-10-17 21:03:14: -- Scroll to [hak (Taiwan)] language!
+2026-10-17 21:03:16: -- [hak (Taiwan)] language diklik!
+2026-10-17 21:03:20: -- Input title
+2026-10-17 21:03:23: -- Input description
+2026-10-17 21:03:29: -- Perbarui di klik!
+2026-10-17 21:03:35: Uploaded content in many lang completed!

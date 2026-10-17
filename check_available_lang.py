@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
-from config.selenium import By, driver, wait_for_all_element
+from config.c_selenium import By, create_driver, wait_for_all_element
 from utilities.utils import load_to_csv, log_progress
 import pandas as pd
+
+driver = create_driver()
 
 def extract_available(driver, url):
     try:
@@ -19,14 +21,12 @@ def extract_available(driver, url):
         
         df = pd.DataFrame(data, columns=["lang"])
         
-
-        
         return df
     except Exception as e:
         log_progress(f"Error: {e}")
         raise e
 
-url = "https://studio.youtube.com/video/OnWzR2jy36I/translations"
+url = "https://studio.youtube.com/video/gxqOYWGANGw/translations"
 
 log_progress("Getting available language")
 available_lang = extract_available(driver, url)
@@ -35,3 +35,5 @@ log_progress(f"Found {len(available_lang)} available language")
 log_progress("Load to csv")
 load_to_csv(available_lang, "lang_available.csv")
 log_progress("Completed!")
+
+driver.quit()

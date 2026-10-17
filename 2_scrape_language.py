@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
-from config.selenium import By, driver, wait_for_element, wait_and_click
+from config.c_selenium import By, create_driver, wait_for_element, wait_and_click
 from utilities.utils import delay, log_progress
 
 import pandas as pd
 
+driver = create_driver()
 
 def extract_language(url):
     driver.get(url)

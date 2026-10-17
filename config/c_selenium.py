@@ -8,17 +8,18 @@ from utilities.utils import root_dir
 BASE_DIR = root_dir(Path(__file__))
 PROFILE_DIR = BASE_DIR / "chrome_profile"
 
-options = webdriver.ChromeOptions()
-# options.add_argument("--headless=new")
-options.add_argument(
-    "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/155.0.0.0 Safari/537.36"
-)
-options.add_argument("--window-size=1920,1080")
-options.add_argument(f"--user-data-dir={PROFILE_DIR}")
+def create_driver():
+    options = webdriver.ChromeOptions()
+    # options.add_argument("--headless=new")
+    options.add_argument(
+        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/155.0.0.0 Safari/537.36"
+    )
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument(f"--user-data-dir={PROFILE_DIR}")
 
-driver = webdriver.Chrome(options=options)
+    return webdriver.Chrome(options=options)
 
 # Selenium wait functions
 def wait_for_all_element(driver, by, value, timeout=15):

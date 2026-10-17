@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 
-from config.selenium import By, driver, wait_for_element, wait_and_click
+from config.c_selenium import By, create_driver, wait_for_element, wait_and_click
 from utilities.utils import read_from_csv, log_progress, delay
+
+driver = create_driver()
 
 def upload_lang(driver, url, data):
     try:
-        title = data.title
+        title = data.title[:100]
         description = data.description
         lang_code = data.lang_code
         lang = data.lang
@@ -73,7 +75,7 @@ def upload_lang(driver, url, data):
         log_progress(f"-- ERROR element {lang}. error: {e}")
         return False
 
-url = "https://studio.youtube.com/video/OnWzR2jy36I/translations"
+url = "https://studio.youtube.com/video/gxqOYWGANGw/translations"
 
 log_progress("Read data source")
 data_source = read_from_csv("./results/data_source.csv")
@@ -96,4 +98,4 @@ for data in data_source.itertuples():
 
 log_progress("Uploaded content in many lang completed!")
 
-# extract_available(driver, url)
+driver.quit()
