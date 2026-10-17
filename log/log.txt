@@ -3600,3 +3600,1216 @@ Symbols not available. Dumping unresolved backtrace:
 2026-10-17 21:03:23: -- Input description
 2026-10-17 21:03:29: -- Perbarui di klik!
 2026-10-17 21:03:35: Uploaded content in many lang completed!
+2026-10-18 00:14:39: Start Transleting!
+2026-10-18 00:14:39: 1 - translating to Abkhaz language
+2026-10-18 00:15:07: 2 - translating to Afar language
+2026-10-18 00:15:24: 3 - translating to Afrikaans language
+2026-10-18 00:15:44: 4 - translating to Akan language
+2026-10-18 00:16:30: Start Transleting!
+2026-10-18 00:16:30: 1 - translating to Abkhaz language
+2026-10-18 00:16:48: 2 - translating to Afar language
+2026-10-18 00:17:16: Start Transleting!
+2026-10-18 00:17:16: 1 - translating to Abkhaz language
+2026-10-18 00:17:34: 2 - translating to Afar language
+2026-10-18 00:17:52: 3 - translating to Afrikaans language
+2026-10-18 00:18:07: 4 - translating to Akan language
+2026-10-18 00:18:25: 5 - translating to Akkadia language
+2026-10-18 00:18:45: 6 - translating to Albania language
+2026-10-18 00:19:07: 7 - translating to Amharik language
+2026-10-18 00:19:32: 8 - translating to Arab language
+2026-10-18 00:19:56: 9 - translating to Aram language
+2026-10-18 00:21:22: Start Transleting!
+2026-10-18 00:21:22: 1 - translating to Abkhaz language
+2026-10-18 00:21:40: 2 - translating to Afar language
+2026-10-18 00:21:57: 3 - translating to Afrikaans language
+2026-10-18 00:22:13: 4 - translating to Akan language
+2026-10-18 00:22:29: 5 - translating to Akkadia language
+2026-10-18 00:22:46: 6 - translating to Albania language
+2026-10-18 00:23:01: 7 - translating to Amharik language
+2026-10-18 00:23:15: 8 - translating to Arab language
+2026-10-18 00:23:32: 9 - translating to Aram language
+2026-10-18 00:29:46: Start Transleting!
+2026-10-18 00:29:46: 1 - translating to Abkhaz language
+2026-10-18 00:30:04: 2 - translating to Afar language
+2026-10-18 00:30:24: 3 - translating to Afrikaans language
+2026-10-18 00:30:42: 4 - translating to Akan language
+2026-10-18 00:30:58: 5 - translating to Akkadia language
+2026-10-18 00:31:17: 6 - translating to Albania language
+2026-10-18 00:31:36: 7 - translating to Amharik language
+2026-10-18 00:31:54: 8 - translating to Arab language
+2026-10-18 00:32:12: 9 - translating to Aram language
+2026-10-18 00:32:31: 10 - translating to Armenia language
+2026-10-18 00:32:49: 11 - translating to Arpitan language
+2026-10-18 00:33:08: 12 - translating to Assam language
+2026-10-18 00:33:27: 13 - translating to Aymara language
+2026-10-18 00:33:45: 14 - translating to Azerbaijani language
+2026-10-18 00:34:03: 15 - translating to Bahasa Isyarat Amerika language
+2026-10-18 00:34:22: 16 - translating to Bambara language
+2026-10-18 00:34:40: 17 - translating to Bashkir language
+2026-10-18 00:34:58: 18 - translating to Basque language
+2026-10-18 00:35:15: 19 - translating to Belanda language
+2026-10-18 00:35:35: 20 - translating to Belanda (Belanda) language
+2026-10-18 00:35:51: 21 - translating to Belanda (Belgia) language
+2026-10-18 00:36:10: 22 - translating to Belarusia language
+2026-10-18 00:36:28: 23 - translating to Bengali language
+2026-10-18 00:36:46: 24 - translating to Bengali (India) language
+2026-10-18 00:37:05: 25 - translating to Bhojpuri language
+2026-10-18 00:37:23: 26 - translating to Bislama language
+2026-10-18 00:37:42: 27 - translating to Bodo language
+2026-10-18 00:37:59: 28 - translating to Bosnia language
+2026-10-18 00:38:17: 29 - translating to Breton language
+2026-10-18 00:38:33: 30 - translating to Bulgaria language
+2026-10-18 00:38:50: 31 - translating to Burma language
+2026-10-18 00:39:09: 32 - translating to Ceko language
+2026-10-18 00:39:28: 33 - translating to Cherokee language
+2026-10-18 00:39:45: 34 - translating to Dansk language
+2026-10-18 00:40:04: 35 - translating to Dogri language
+2026-10-18 00:40:23: 36 - translating to Dzongkha language
+2026-10-18 00:40:42: 37 - translating to Esperanto language
+2026-10-18 00:40:59: 38 - translating to Estonia language
+2026-10-18 00:41:18: 39 - translating to Ewe language
+2026-10-18 00:41:37: 40 - translating to Faroe language
+2026-10-18 00:41:54: 41 - translating to Fiji language
+2026-10-18 00:42:14: 42 - translating to Filipino language
+2026-10-18 00:42:33: 43 - translating to Frisia Barat language
+2026-10-18 00:42:50: 44 - translating to Fula language
+2026-10-18 00:43:08: 45 - translating to Gaelik Skotlandia language
+2026-10-18 00:43:27: 46 - translating to Galisia language
+2026-10-18 00:43:45: 47 - translating to Ganda language
+2026-10-18 00:44:03: 48 - translating to Georgia language
+2026-10-18 00:44:21: 49 - translating to Guarani language
+2026-10-18 00:44:38: 50 - translating to Gujarat language
+2026-10-18 00:44:55: 51 - translating to Gusii language
+2026-10-18 00:45:11: 52 - translating to hak language
+2026-10-18 00:45:29: 53 - translating to hak (Taiwan) language
+2026-10-18 00:45:47: 54 - translating to Haryanvi language
+2026-10-18 00:46:05: 55 - translating to Hausa language
+2026-10-18 00:46:25: 56 - translating to Hawaii language
+2026-10-18 00:46:42: 57 - translating to Hindi language
+2026-10-18 00:47:00: 58 - translating to Hindi (Latin) language
+2026-10-18 00:47:18: 59 - translating to Hiri Motu language
+2026-10-18 00:49:18: 60 - translating to Hungaria language
+2026-10-18 00:51:16: 61 - translating to Ibrani language
+2026-10-18 00:51:16: 62 - translating to Igbo language
+2026-10-18 00:51:16: 63 - translating to Indonesia language
+2026-10-18 00:51:16: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-18 00:51:16: 66 - translating to Inggris (Australia) language
+2026-10-18 00:51:16: 67 - translating to Inggris (India) language
+2026-10-18 00:51:16: 68 - translating to Inggris (Inggris Raya) language
+2026-10-18 00:51:16: 69 - translating to Inggris (Irlandia) language
+2026-10-18 00:51:16: 70 - translating to Inggris (Kanada) language
+2026-10-18 00:51:16: 71 - translating to Interlingua language
+2026-10-18 00:51:16: 72 - translating to Interlingue language
+2026-10-18 00:51:16: 73 - translating to Inuktitut language
+2026-10-18 00:51:16: 74 - translating to Inupiak language
+2026-10-18 00:51:16: 75 - translating to Irlandia language
+2026-10-18 00:51:16: 76 - translating to Islandia language
+2026-10-18 00:51:16: 77 - translating to Italia language
+2026-10-18 00:51:16: 78 - translating to Jawa language
+2026-10-18 00:51:16: 79 - translating to Jepang language
+2026-10-18 00:51:16: 80 - translating to Jerman language
+2026-10-18 00:51:16: 81 - translating to Jerman (Austria) language
+2026-10-18 00:51:16: 82 - translating to Jerman (Jerman) language
+2026-10-18 00:51:16: 83 - translating to Jerman (Swiss) language
+2026-10-18 00:51:16: 84 - translating to Kalaallisut language
+2026-10-18 00:51:16: 85 - translating to Kalenjin language
+2026-10-18 00:51:16: 86 - translating to Kamba language
+2026-10-18 00:51:16: 87 - translating to Kannada language
+2026-10-18 00:51:16: 88 - translating to Kanton language
+2026-10-18 00:51:16: 89 - translating to Kanton (Hong Kong) language
+2026-10-18 00:51:16: 90 - translating to Kashmir language
+2026-10-18 00:51:16: 91 - translating to Katalan language
+2026-10-18 00:51:16: 92 - translating to Kazakh language
+2026-10-18 00:51:16: 93 - translating to Khmer language
+2026-10-18 00:51:16: 94 - translating to Kikuyu language
+2026-10-18 00:51:16: 95 - translating to Kinyarwanda language
+2026-10-18 00:51:16: 96 - translating to Kirgiz language
+2026-10-18 00:51:16: 97 - translating to Klingon language
+2026-10-18 00:51:16: 98 - translating to Koktaw language
+2026-10-18 00:51:16: 99 - translating to Konkani language
+2026-10-18 00:51:16: 100 - translating to Koptik language
+2026-10-18 00:51:16: 101 - translating to Korea language
+2026-10-18 00:51:16: 102 - translating to Korsika language
+2026-10-18 00:51:16: 103 - translating to Kree language
+2026-10-18 00:51:16: 104 - translating to Kreol Haiti language
+2026-10-18 00:51:16: 105 - translating to Kroasia language
+2026-10-18 00:51:16: 106 - translating to Kurdi language
+2026-10-18 00:51:16: 107 - translating to Ladino language
+2026-10-18 00:51:16: 108 - translating to Lao language
+2026-10-18 00:51:16: 109 - translating to Latin language
+2026-10-18 00:51:16: 110 - translating to Latvia language
+2026-10-18 00:51:16: 111 - translating to Lingala language
+2026-10-18 00:51:16: 112 - translating to Lituania language
+2026-10-18 00:51:16: 113 - translating to Lojban language
+2026-10-18 00:51:16: 114 - translating to Luba-Katanga language
+2026-10-18 00:51:16: 115 - translating to Luksemburg language
+2026-10-18 00:51:16: 116 - translating to Luo language
+2026-10-18 00:51:16: 117 - translating to Luyia language
+2026-10-18 00:51:16: 118 - translating to Maithili language
+2026-10-18 00:51:16: 119 - translating to Makedonia language
+2026-10-18 00:51:16: 120 - translating to Malagasi language
+2026-10-18 00:51:16: 121 - translating to Malayalam language
+2026-10-18 00:51:16: 122 - translating to Malta language
+2026-10-18 00:51:16: 123 - translating to Manipuri language
+2026-10-18 00:51:16: 124 - translating to Maori language
+2026-10-18 00:51:16: 125 - translating to Marathi language
+2026-10-18 00:51:16: 126 - translating to Masai language
+2026-10-18 00:51:16: 127 - translating to Melayu language
+2026-10-18 00:51:16: 128 - translating to Melayu (Singapura) language
+2026-10-18 00:51:16: 129 - translating to Meru language
+2026-10-18 00:51:16: 130 - translating to Mixe language
+2026-10-18 00:51:16: 131 - translating to Mizo language
+2026-10-18 00:51:16: 132 - translating to Mongolia language
+2026-10-18 00:51:16: 133 - translating to Mongolia (Mongolia) language
+2026-10-18 00:51:16: 134 - translating to nan language
+2026-10-18 00:51:16: 135 - translating to nan (Taiwan) language
+2026-10-18 00:51:16: 136 - translating to Nauru language
+2026-10-18 00:51:16: 137 - translating to Navajo language
+2026-10-18 00:51:16: 138 - translating to Ndebele Selatan language
+2026-10-18 00:51:16: 139 - translating to Ndebele Utara language
+2026-10-18 00:51:16: 140 - translating to Nepali language
+2026-10-18 00:51:16: 141 - translating to Norwegia language
+2026-10-18 00:51:16: 142 - translating to Oriya language
+2026-10-18 00:51:16: 143 - translating to Oromo language
+2026-10-18 00:51:16: 144 - translating to Ositania language
+2026-10-18 00:51:16: 145 - translating to Papiamento language
+2026-10-18 00:51:16: 146 - translating to Pashto language
+2026-10-18 00:51:16: 147 - translating to Persia language
+2026-10-18 00:51:16: 148 - translating to Persia (Afganistan) language
+2026-10-18 00:51:16: 149 - translating to Persia (Iran) language
+2026-10-18 00:51:16: 150 - translating to Pidgin Nigeria language
+2026-10-18 00:51:16: 151 - translating to Polski language
+2026-10-18 00:51:16: 152 - translating to Portugis language
+2026-10-18 00:51:16: 153 - translating to Portugis (Brasil) language
+2026-10-18 00:51:16: 154 - translating to Portugis (Portugal) language
+2026-10-18 00:51:16: 155 - translating to Prancis language
+2026-10-18 00:51:16: 156 - translating to Prancis (Belgia) language
+2026-10-18 00:51:16: 157 - translating to Prancis (Kanada) language
+2026-10-18 00:51:16: 158 - translating to Prancis (Prancis) language
+2026-10-18 00:51:16: 159 - translating to Prancis (Swiss) language
+2026-10-18 00:51:16: 160 - translating to Punjabi language
+2026-10-18 00:51:16: 161 - translating to Quechua language
+2026-10-18 00:51:16: 162 - translating to Reto-Roman language
+2026-10-18 00:51:16: 163 - translating to Rumania language
+2026-10-18 00:51:16: 164 - translating to Rumania (Moldova) language
+2026-10-18 00:51:16: 165 - translating to Rundi language
+2026-10-18 00:51:16: 166 - translating to Rusia language
+2026-10-18 00:51:16: 167 - translating to Rusia (Latin) language
+2026-10-18 00:51:16: 168 - translating to Samoa language
+2026-10-18 00:51:16: 169 - translating to Sango language
+2026-10-18 00:51:16: 170 - translating to Sanskerta language
+2026-10-18 00:51:16: 171 - translating to Santali language
+2026-10-18 00:51:16: 172 - translating to Sardinia language
+2026-10-18 00:51:16: 173 - translating to Serbia language
+2026-10-18 00:51:16: 174 - translating to Serbia (Latin) language
+2026-10-18 00:51:16: 175 - translating to Serbia (Sirilik) language
+2026-10-18 00:51:16: 176 - translating to Serbo-Kroasia language
+2026-10-18 00:51:16: 177 - translating to Sherdukpen language
+2026-10-18 00:51:16: 178 - translating to Shona language
+2026-10-18 00:51:16: 179 - translating to Sindhi language
+2026-10-18 00:51:16: 180 - translating to Sinhala language
+2026-10-18 00:51:16: 181 - translating to Sisilia language
+2026-10-18 00:51:16: 182 - translating to Slovak language
+2026-10-18 00:51:16: 183 - translating to Slovenia language
+2026-10-18 00:51:16: 184 - translating to Somalia language
+2026-10-18 00:51:16: 185 - translating to Sorbia Hilir language
+2026-10-18 00:51:16: 186 - translating to Sorbia Hulu language
+2026-10-18 00:51:16: 187 - translating to Sotho Selatan language
+2026-10-18 00:51:16: 188 - translating to Sotho Utara language
+2026-10-18 00:51:16: 189 - translating to Spanyol language
+2026-10-18 00:51:16: 190 - translating to Spanyol (Amerika Latin) language
+2026-10-18 00:51:16: 191 - translating to Spanyol (Amerika Serikat) language
+2026-10-18 00:51:16: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 00:51:16: 193 - translating to Spanyol (Spanyol) language
+2026-10-18 00:51:16: 194 - translating to Sunda language
+2026-10-18 00:51:16: 195 - translating to Suomi language
+2026-10-18 00:51:16: 196 - translating to Swahili language
+2026-10-18 00:51:16: 197 - translating to Swati language
+2026-10-18 00:51:16: 198 - translating to Swedia language
+2026-10-18 00:51:16: 199 - translating to Tagalog language
+2026-10-18 00:51:16: 200 - translating to Tajik language
+2026-10-18 00:51:16: Translation content completed!
+2026-10-18 00:55:38: Start Transleting!
+2026-10-18 00:55:38: 58 - translating to Hindi (Latin) language
+2026-10-18 00:55:56: 59 - translating to Hiri Motu language
+2026-10-18 00:56:16: 60 - translating to Hungaria language
+2026-10-18 00:56:36: 61 - translating to Ibrani language
+2026-10-18 00:56:54: 62 - translating to Igbo language
+2026-10-18 00:57:12: 63 - translating to Indonesia language
+2026-10-18 00:57:30: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-18 00:57:50: 66 - translating to Inggris (Australia) language
+2026-10-18 00:58:08: 67 - translating to Inggris (India) language
+2026-10-18 00:58:27: 68 - translating to Inggris (Inggris Raya) language
+2026-10-18 00:58:46: 69 - translating to Inggris (Irlandia) language
+2026-10-18 00:59:05: 70 - translating to Inggris (Kanada) language
+2026-10-18 00:59:23: 71 - translating to Interlingua language
+2026-10-18 01:00:07: 72 - translating to Interlingue language
+2026-10-18 01:00:25: 73 - translating to Inuktitut language
+2026-10-18 01:00:41: 74 - translating to Inupiak language
+2026-10-18 01:01:00: 75 - translating to Irlandia language
+2026-10-18 01:01:18: 76 - translating to Islandia language
+2026-10-18 01:01:36: 77 - translating to Italia language
+2026-10-18 01:01:55: 78 - translating to Jawa language
+2026-10-18 01:02:14: 79 - translating to Jepang language
+2026-10-18 01:02:31: 80 - translating to Jerman language
+2026-10-18 01:02:49: 81 - translating to Jerman (Austria) language
+2026-10-18 01:03:08: 82 - translating to Jerman (Jerman) language
+2026-10-18 01:03:26: 83 - translating to Jerman (Swiss) language
+2026-10-18 01:03:44: 84 - translating to Kalaallisut language
+2026-10-18 01:04:02: 85 - translating to Kalenjin language
+2026-10-18 01:04:21: 86 - translating to Kamba language
+2026-10-18 01:04:39: 87 - translating to Kannada language
+2026-10-18 01:04:57: 88 - translating to Kanton language
+2026-10-18 01:05:16: 89 - translating to Kanton (Hong Kong) language
+2026-10-18 01:05:35: 90 - translating to Kashmir language
+2026-10-18 01:05:52: 91 - translating to Katalan language
+2026-10-18 01:06:10: 92 - translating to Kazakh language
+2026-10-18 01:06:26: 93 - translating to Khmer language
+2026-10-18 01:06:44: 94 - translating to Kikuyu language
+2026-10-18 01:07:01: 95 - translating to Kinyarwanda language
+2026-10-18 01:07:19: 96 - translating to Kirgiz language
+2026-10-18 01:07:38: 97 - translating to Klingon language
+2026-10-18 01:07:56: 98 - translating to Koktaw language
+2026-10-18 01:08:14: 99 - translating to Konkani language
+2026-10-18 01:08:33: 100 - translating to Koptik language
+2026-10-18 01:08:52: 101 - translating to Korea language
+2026-10-18 01:09:09: 102 - translating to Korsika language
+2026-10-18 01:09:28: 103 - translating to Kree language
+2026-10-18 01:09:45: 104 - translating to Kreol Haiti language
+2026-10-18 01:10:04: 105 - translating to Kroasia language
+2026-10-18 01:10:21: 106 - translating to Kurdi language
+2026-10-18 01:10:39: 107 - translating to Ladino language
+2026-10-18 01:10:56: 108 - translating to Lao language
+2026-10-18 01:11:14: 109 - translating to Latin language
+2026-10-18 01:11:32: 110 - translating to Latvia language
+2026-10-18 01:11:52: 111 - translating to Lingala language
+2026-10-18 01:12:14: 112 - translating to Lituania language
+2026-10-18 01:12:40: 113 - translating to Lojban language
+2026-10-18 01:13:03: 114 - translating to Luba-Katanga language
+2026-10-18 01:15:14: 115 - translating to Luksemburg language
+2026-10-18 01:17:14: 116 - translating to Luo language
+2026-10-18 01:20:07: Start Transleting!
+2026-10-18 01:20:07: 114 - translating to Luba-Katanga language
+2026-10-18 01:20:27: 115 - translating to Luksemburg language
+2026-10-18 01:20:44: 116 - translating to Luo language
+2026-10-18 01:21:04: 117 - translating to Luyia language
+2026-10-18 01:21:23: 118 - translating to Maithili language
+2026-10-18 01:21:41: 119 - translating to Makedonia language
+2026-10-18 01:22:00: 120 - translating to Malagasi language
+2026-10-18 01:22:17: 121 - translating to Malayalam language
+2026-10-18 01:22:35: 122 - translating to Malta language
+2026-10-18 01:22:54: 123 - translating to Manipuri language
+2026-10-18 01:23:11: 124 - translating to Maori language
+2026-10-18 01:23:29: 125 - translating to Marathi language
+2026-10-18 01:23:48: 126 - translating to Masai language
+2026-10-18 01:24:07: 127 - translating to Melayu language
+2026-10-18 01:24:26: 128 - translating to Melayu (Singapura) language
+2026-10-18 01:24:45: 129 - translating to Meru language
+2026-10-18 01:25:03: 130 - translating to Mixe language
+2026-10-18 01:25:21: 131 - translating to Mizo language
+2026-10-18 01:25:38: 132 - translating to Mongolia language
+2026-10-18 01:25:56: 133 - translating to Mongolia (Mongolia) language
+2026-10-18 01:26:13: 134 - translating to nan language
+2026-10-18 01:26:31: 135 - translating to nan (Taiwan) language
+2026-10-18 01:26:48: 136 - translating to Nauru language
+2026-10-18 01:27:07: 137 - translating to Navajo language
+2026-10-18 01:27:24: 138 - translating to Ndebele Selatan language
+2026-10-18 01:27:42: 139 - translating to Ndebele Utara language
+2026-10-18 01:28:01: 140 - translating to Nepali language
+2026-10-18 01:28:19: 141 - translating to Norwegia language
+2026-10-18 01:28:37: 142 - translating to Oriya language
+2026-10-18 01:28:55: 143 - translating to Oromo language
+2026-10-18 01:29:14: 144 - translating to Ositania language
+2026-10-18 01:29:32: 145 - translating to Papiamento language
+2026-10-18 01:29:49: 146 - translating to Pashto language
+2026-10-18 01:30:07: 147 - translating to Persia language
+2026-10-18 01:30:24: 148 - translating to Persia (Afganistan) language
+2026-10-18 01:30:42: 149 - translating to Persia (Iran) language
+2026-10-18 01:31:00: 150 - translating to Pidgin Nigeria language
+2026-10-18 01:31:19: 151 - translating to Polski language
+2026-10-18 01:31:36: 152 - translating to Portugis language
+2026-10-18 01:31:56: 153 - translating to Portugis (Brasil) language
+2026-10-18 01:32:13: 154 - translating to Portugis (Portugal) language
+2026-10-18 01:32:32: 155 - translating to Prancis language
+2026-10-18 01:32:52: 156 - translating to Prancis (Belgia) language
+2026-10-18 01:33:09: 157 - translating to Prancis (Kanada) language
+2026-10-18 01:33:27: 158 - translating to Prancis (Prancis) language
+2026-10-18 01:33:44: 159 - translating to Prancis (Swiss) language
+2026-10-18 01:34:02: 160 - translating to Punjabi language
+2026-10-18 01:34:19: 161 - translating to Quechua language
+2026-10-18 01:34:37: 162 - translating to Reto-Roman language
+2026-10-18 01:34:54: 163 - translating to Rumania language
+2026-10-18 01:35:12: 164 - translating to Rumania (Moldova) language
+2026-10-18 01:35:30: 165 - translating to Rundi language
+2026-10-18 01:35:49: 166 - translating to Rusia language
+2026-10-18 01:36:08: 167 - translating to Rusia (Latin) language
+2026-10-18 01:36:28: 168 - translating to Samoa language
+2026-10-18 01:36:46: 169 - translating to Sango language
+2026-10-18 01:37:05: 170 - translating to Sanskerta language
+2026-10-18 01:37:24: 171 - translating to Santali language
+2026-10-18 01:37:42: 172 - translating to Sardinia language
+2026-10-18 01:38:00: 173 - translating to Serbia language
+2026-10-18 01:38:19: 174 - translating to Serbia (Latin) language
+2026-10-18 01:38:37: 175 - translating to Serbia (Sirilik) language
+2026-10-18 01:38:55: 176 - translating to Serbo-Kroasia language
+2026-10-18 01:39:13: 177 - translating to Sherdukpen language
+2026-10-18 01:39:30: 178 - translating to Shona language
+2026-10-18 01:39:49: 179 - translating to Sindhi language
+2026-10-18 01:40:06: 180 - translating to Sinhala language
+2026-10-18 01:40:24: 181 - translating to Sisilia language
+2026-10-18 01:40:43: 182 - translating to Slovak language
+2026-10-18 01:41:02: 183 - translating to Slovenia language
+2026-10-18 01:41:22: 184 - translating to Somalia language
+2026-10-18 01:41:42: 185 - translating to Sorbia Hilir language
+2026-10-18 01:42:03: 186 - translating to Sorbia Hulu language
+2026-10-18 01:42:21: 187 - translating to Sotho Selatan language
+2026-10-18 01:42:40: 188 - translating to Sotho Utara language
+2026-10-18 01:42:57: 189 - translating to Spanyol language
+2026-10-18 01:43:17: 190 - translating to Spanyol (Amerika Latin) language
+2026-10-18 01:43:36: 191 - translating to Spanyol (Amerika Serikat) language
+2026-10-18 01:43:54: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 01:44:14: 193 - translating to Spanyol (Spanyol) language
+2026-10-18 01:44:33: 194 - translating to Sunda language
+2026-10-18 01:44:51: 195 - translating to Suomi language
+2026-10-18 01:45:11: 196 - translating to Swahili language
+2026-10-18 01:45:30: 197 - translating to Swati language
+2026-10-18 01:45:49: 198 - translating to Swedia language
+2026-10-18 01:46:09: 199 - translating to Tagalog language
+2026-10-18 01:46:29: 200 - translating to Tajik language
+2026-10-18 01:46:48: Translation content completed!
+2026-10-18 02:03:19: Start Transleting!
+2026-10-18 02:03:19: 1 - translating to Abkhaz language
+2026-10-18 02:03:19: 2 - translating to Afar language
+2026-10-18 02:03:19: 3 - translating to Afrikaans language
+2026-10-18 02:03:19: 4 - translating to Akan language
+2026-10-18 02:03:19: 5 - translating to Akkadia language
+2026-10-18 02:03:19: 6 - translating to Albania language
+2026-10-18 02:03:19: 7 - translating to Amharik language
+2026-10-18 02:03:19: 8 - translating to Arab language
+2026-10-18 02:03:19: 9 - translating to Aram language
+2026-10-18 02:03:19: 10 - translating to Armenia language
+2026-10-18 02:03:19: 11 - translating to Arpitan language
+2026-10-18 02:03:19: 12 - translating to Assam language
+2026-10-18 02:03:19: 13 - translating to Aymara language
+2026-10-18 02:03:19: 14 - translating to Azerbaijani language
+2026-10-18 02:03:19: 15 - translating to Bahasa Isyarat Amerika language
+2026-10-18 02:03:19: 16 - translating to Bambara language
+2026-10-18 02:03:19: 17 - translating to Bashkir language
+2026-10-18 02:03:19: 18 - translating to Basque language
+2026-10-18 02:03:19: 19 - translating to Belanda language
+2026-10-18 02:03:19: 20 - translating to Belanda (Belanda) language
+2026-10-18 02:03:19: 21 - translating to Belanda (Belgia) language
+2026-10-18 02:03:19: 22 - translating to Belarusia language
+2026-10-18 02:03:19: 23 - translating to Bengali language
+2026-10-18 02:03:19: 24 - translating to Bengali (India) language
+2026-10-18 02:03:19: 25 - translating to Bhojpuri language
+2026-10-18 02:03:19: 26 - translating to Bislama language
+2026-10-18 02:03:19: 27 - translating to Bodo language
+2026-10-18 02:03:19: 28 - translating to Bosnia language
+2026-10-18 02:03:19: 29 - translating to Breton language
+2026-10-18 02:03:19: 30 - translating to Bulgaria language
+2026-10-18 02:03:19: 31 - translating to Burma language
+2026-10-18 02:03:19: 32 - translating to Ceko language
+2026-10-18 02:03:19: 33 - translating to Cherokee language
+2026-10-18 02:03:19: 34 - translating to Dansk language
+2026-10-18 02:03:19: 35 - translating to Dogri language
+2026-10-18 02:03:19: 36 - translating to Dzongkha language
+2026-10-18 02:03:19: 37 - translating to Esperanto language
+2026-10-18 02:03:19: 38 - translating to Estonia language
+2026-10-18 02:03:19: 39 - translating to Ewe language
+2026-10-18 02:03:19: 40 - translating to Faroe language
+2026-10-18 02:03:19: 41 - translating to Fiji language
+2026-10-18 02:03:19: 42 - translating to Filipino language
+2026-10-18 02:03:19: 43 - translating to Frisia Barat language
+2026-10-18 02:03:19: 44 - translating to Fula language
+2026-10-18 02:03:19: 45 - translating to Gaelik Skotlandia language
+2026-10-18 02:03:19: 46 - translating to Galisia language
+2026-10-18 02:03:19: 47 - translating to Ganda language
+2026-10-18 02:03:19: 48 - translating to Georgia language
+2026-10-18 02:03:19: 49 - translating to Guarani language
+2026-10-18 02:03:19: 50 - translating to Gujarat language
+2026-10-18 02:03:19: 51 - translating to Gusii language
+2026-10-18 02:03:19: 52 - translating to hak language
+2026-10-18 02:03:19: 53 - translating to hak (Taiwan) language
+2026-10-18 02:03:19: 54 - translating to Haryanvi language
+2026-10-18 02:03:19: 55 - translating to Hausa language
+2026-10-18 02:03:19: 56 - translating to Hawaii language
+2026-10-18 02:03:19: 57 - translating to Hindi language
+2026-10-18 02:03:19: 58 - translating to Hindi (Latin) language
+2026-10-18 02:03:19: 59 - translating to Hiri Motu language
+2026-10-18 02:03:19: 60 - translating to Hungaria language
+2026-10-18 02:03:19: 61 - translating to Ibrani language
+2026-10-18 02:03:19: 62 - translating to Igbo language
+2026-10-18 02:03:19: 63 - translating to Indonesia language
+2026-10-18 02:03:19: 64 - translating to Inggris language
+2026-10-18 02:03:55: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-18 02:04:32: 66 - translating to Inggris (Australia) language
+2026-10-18 02:05:09: 67 - translating to Inggris (India) language
+2026-10-18 02:05:44: 68 - translating to Inggris (Inggris Raya) language
+2026-10-18 02:05:47: 69 - translating to Inggris (Irlandia) language
+2026-10-18 02:05:47: 70 - translating to Inggris (Kanada) language
+2026-10-18 02:05:47: 71 - translating to Interlingua language
+2026-10-18 02:05:47: 72 - translating to Interlingue language
+2026-10-18 02:05:47: 73 - translating to Inuktitut language
+2026-10-18 02:05:47: 74 - translating to Inupiak language
+2026-10-18 02:05:47: 75 - translating to Irlandia language
+2026-10-18 02:05:47: 76 - translating to Islandia language
+2026-10-18 02:05:47: 77 - translating to Italia language
+2026-10-18 02:05:47: 78 - translating to Jawa language
+2026-10-18 02:05:47: 79 - translating to Jepang language
+2026-10-18 02:05:47: 80 - translating to Jerman language
+2026-10-18 02:05:47: 81 - translating to Jerman (Austria) language
+2026-10-18 02:05:47: 82 - translating to Jerman (Jerman) language
+2026-10-18 02:05:47: 83 - translating to Jerman (Swiss) language
+2026-10-18 02:05:47: 84 - translating to Kalaallisut language
+2026-10-18 02:05:47: 85 - translating to Kalenjin language
+2026-10-18 02:05:47: 86 - translating to Kamba language
+2026-10-18 02:05:47: 87 - translating to Kannada language
+2026-10-18 02:05:47: 88 - translating to Kanton language
+2026-10-18 02:05:47: 89 - translating to Kanton (Hong Kong) language
+2026-10-18 02:05:47: 90 - translating to Kashmir language
+2026-10-18 02:05:47: 91 - translating to Katalan language
+2026-10-18 02:05:47: 92 - translating to Kazakh language
+2026-10-18 02:05:47: 93 - translating to Khmer language
+2026-10-18 02:05:47: 94 - translating to Kikuyu language
+2026-10-18 02:05:47: 95 - translating to Kinyarwanda language
+2026-10-18 02:05:47: 96 - translating to Kirgiz language
+2026-10-18 02:05:47: 97 - translating to Klingon language
+2026-10-18 02:05:47: 98 - translating to Koktaw language
+2026-10-18 02:05:47: 99 - translating to Konkani language
+2026-10-18 02:05:47: 100 - translating to Koptik language
+2026-10-18 02:05:47: 101 - translating to Korea language
+2026-10-18 02:05:47: 102 - translating to Korsika language
+2026-10-18 02:05:47: 103 - translating to Kree language
+2026-10-18 02:05:47: 104 - translating to Kreol Haiti language
+2026-10-18 02:05:47: 105 - translating to Kroasia language
+2026-10-18 02:05:47: 106 - translating to Kurdi language
+2026-10-18 02:05:47: 107 - translating to Ladino language
+2026-10-18 02:05:47: 108 - translating to Lao language
+2026-10-18 02:05:47: 109 - translating to Latin language
+2026-10-18 02:05:47: 110 - translating to Latvia language
+2026-10-18 02:05:47: 111 - translating to Lingala language
+2026-10-18 02:05:47: 112 - translating to Lituania language
+2026-10-18 02:05:47: 113 - translating to Lojban language
+2026-10-18 02:05:47: 114 - translating to Luba-Katanga language
+2026-10-18 02:05:47: 115 - translating to Luksemburg language
+2026-10-18 02:05:47: 116 - translating to Luo language
+2026-10-18 02:05:47: 117 - translating to Luyia language
+2026-10-18 02:05:47: 118 - translating to Maithili language
+2026-10-18 02:05:47: 119 - translating to Makedonia language
+2026-10-18 02:05:47: 120 - translating to Malagasi language
+2026-10-18 02:05:47: 121 - translating to Malayalam language
+2026-10-18 02:05:47: 122 - translating to Malta language
+2026-10-18 02:05:47: 123 - translating to Manipuri language
+2026-10-18 02:05:47: 124 - translating to Maori language
+2026-10-18 02:05:47: 125 - translating to Marathi language
+2026-10-18 02:05:47: 126 - translating to Masai language
+2026-10-18 02:05:47: 127 - translating to Melayu language
+2026-10-18 02:05:47: 128 - translating to Melayu (Singapura) language
+2026-10-18 02:05:47: 129 - translating to Meru language
+2026-10-18 02:05:47: 130 - translating to Mixe language
+2026-10-18 02:05:47: 131 - translating to Mizo language
+2026-10-18 02:05:47: 132 - translating to Mongolia language
+2026-10-18 02:05:47: 133 - translating to Mongolia (Mongolia) language
+2026-10-18 02:05:47: 134 - translating to nan language
+2026-10-18 02:05:47: 135 - translating to nan (Taiwan) language
+2026-10-18 02:05:47: 136 - translating to Nauru language
+2026-10-18 02:05:47: 137 - translating to Navajo language
+2026-10-18 02:05:47: 138 - translating to Ndebele Selatan language
+2026-10-18 02:05:47: 139 - translating to Ndebele Utara language
+2026-10-18 02:05:47: 140 - translating to Nepali language
+2026-10-18 02:05:47: 141 - translating to Norwegia language
+2026-10-18 02:05:47: 142 - translating to Oriya language
+2026-10-18 02:05:47: 143 - translating to Oromo language
+2026-10-18 02:05:47: 144 - translating to Ositania language
+2026-10-18 02:05:47: 145 - translating to Papiamento language
+2026-10-18 02:05:47: 146 - translating to Pashto language
+2026-10-18 02:05:47: 147 - translating to Persia language
+2026-10-18 02:05:47: 148 - translating to Persia (Afganistan) language
+2026-10-18 02:05:47: 149 - translating to Persia (Iran) language
+2026-10-18 02:05:47: 150 - translating to Pidgin Nigeria language
+2026-10-18 02:05:47: 151 - translating to Polski language
+2026-10-18 02:05:47: 152 - translating to Portugis language
+2026-10-18 02:05:47: 153 - translating to Portugis (Brasil) language
+2026-10-18 02:05:47: 154 - translating to Portugis (Portugal) language
+2026-10-18 02:05:47: 155 - translating to Prancis language
+2026-10-18 02:05:47: 156 - translating to Prancis (Belgia) language
+2026-10-18 02:05:47: 157 - translating to Prancis (Kanada) language
+2026-10-18 02:05:47: 158 - translating to Prancis (Prancis) language
+2026-10-18 02:05:47: 159 - translating to Prancis (Swiss) language
+2026-10-18 02:05:47: 160 - translating to Punjabi language
+2026-10-18 02:05:47: 161 - translating to Quechua language
+2026-10-18 02:05:47: 162 - translating to Reto-Roman language
+2026-10-18 02:05:47: 163 - translating to Rumania language
+2026-10-18 02:05:47: 164 - translating to Rumania (Moldova) language
+2026-10-18 02:05:47: 165 - translating to Rundi language
+2026-10-18 02:05:47: 166 - translating to Rusia language
+2026-10-18 02:05:47: 167 - translating to Rusia (Latin) language
+2026-10-18 02:05:47: 168 - translating to Samoa language
+2026-10-18 02:05:47: 169 - translating to Sango language
+2026-10-18 02:05:47: 170 - translating to Sanskerta language
+2026-10-18 02:05:47: 171 - translating to Santali language
+2026-10-18 02:05:47: 172 - translating to Sardinia language
+2026-10-18 02:05:47: 173 - translating to Serbia language
+2026-10-18 02:05:47: 174 - translating to Serbia (Latin) language
+2026-10-18 02:05:47: 175 - translating to Serbia (Sirilik) language
+2026-10-18 02:05:47: 176 - translating to Serbo-Kroasia language
+2026-10-18 02:05:47: 177 - translating to Sherdukpen language
+2026-10-18 02:05:47: 178 - translating to Shona language
+2026-10-18 02:05:47: 179 - translating to Sindhi language
+2026-10-18 02:05:47: 180 - translating to Sinhala language
+2026-10-18 02:05:47: 181 - translating to Sisilia language
+2026-10-18 02:05:47: 182 - translating to Slovak language
+2026-10-18 02:05:47: 183 - translating to Slovenia language
+2026-10-18 02:05:47: 184 - translating to Somalia language
+2026-10-18 02:05:47: 185 - translating to Sorbia Hilir language
+2026-10-18 02:05:47: 186 - translating to Sorbia Hulu language
+2026-10-18 02:05:47: 187 - translating to Sotho Selatan language
+2026-10-18 02:05:47: 188 - translating to Sotho Utara language
+2026-10-18 02:05:47: 189 - translating to Spanyol language
+2026-10-18 02:05:47: 190 - translating to Spanyol (Amerika Latin) language
+2026-10-18 02:05:47: 191 - translating to Spanyol (Amerika Serikat) language
+2026-10-18 02:05:47: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 02:05:47: 193 - translating to Spanyol (Spanyol) language
+2026-10-18 02:05:47: 194 - translating to Sunda language
+2026-10-18 02:05:47: 195 - translating to Suomi language
+2026-10-18 02:05:47: 196 - translating to Swahili language
+2026-10-18 02:05:47: 197 - translating to Swati language
+2026-10-18 02:05:47: 198 - translating to Swedia language
+2026-10-18 02:05:47: 199 - translating to Tagalog language
+2026-10-18 02:05:47: 200 - translating to Tajik language
+2026-10-18 02:05:47: 201 - translating to Tamil language
+2026-10-18 02:05:47: 202 - translating to Tatar language
+2026-10-18 02:05:47: 203 - translating to Telugu language
+2026-10-18 02:05:47: 204 - translating to Thai language
+2026-10-18 02:05:47: 205 - translating to Tibet language
+2026-10-18 02:05:47: 206 - translating to Tigrinya language
+2026-10-18 02:05:47: 207 - translating to Tionghoa language
+2026-10-18 02:05:47: 208 - translating to Tionghoa (Hong Kong) language
+2026-10-18 02:05:47: 209 - translating to Tionghoa (Sederhana) language
+2026-10-18 02:05:47: 210 - translating to Tionghoa (Singapura) language
+2026-10-18 02:05:47: 211 - translating to Tionghoa (Taiwan) language
+2026-10-18 02:05:47: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 02:05:47: 213 - translating to Tionghoa (Tradisional) language
+2026-10-18 02:05:47: 214 - translating to Tok Pisin language
+2026-10-18 02:05:47: 215 - translating to Toki Pona language
+2026-10-18 02:05:47: 216 - translating to Tonga language
+2026-10-18 02:05:47: 217 - translating to Tsonga language
+2026-10-18 02:05:47: 218 - translating to Tswana language
+2026-10-18 02:05:47: 219 - translating to Turki language
+2026-10-18 02:05:47: 220 - translating to Turkmen language
+2026-10-18 02:05:47: 221 - translating to Twi language
+2026-10-18 02:05:47: 222 - translating to Ukraina language
+2026-10-18 02:05:47: 223 - translating to Urdu language
+2026-10-18 02:05:47: 224 - translating to Uyghur language
+2026-10-18 02:05:47: 225 - translating to Uzbek language
+2026-10-18 02:05:47: 226 - translating to Venda language
+2026-10-18 02:05:47: 227 - translating to Vietnam language
+2026-10-18 02:05:47: 228 - translating to Volapuk language
+2026-10-18 02:05:47: 229 - translating to vro language
+2026-10-18 02:05:47: 230 - translating to Walamo language
+2026-10-18 02:05:47: 231 - translating to Walloon language
+2026-10-18 02:05:47: 232 - translating to Welsh language
+2026-10-18 02:05:47: 233 - translating to Wolof language
+2026-10-18 02:05:47: 234 - translating to Xhosa language
+2026-10-18 02:05:47: 235 - translating to Yiddish language
+2026-10-18 02:05:47: 236 - translating to Yoruba language
+2026-10-18 02:05:47: 237 - translating to Yunani language
+2026-10-18 02:05:47: 238 - translating to Zulu language
+2026-10-18 02:05:47: Translation content completed!
+2026-10-18 02:44:20: Start Transleting!
+2026-10-18 02:44:20: Translation content completed!
+2026-10-18 02:59:21: Start Transleting!
+2026-10-18 02:59:21: Translation content completed!
+2026-10-18 03:25:17: Start Transleting!
+2026-10-18 03:25:17: 8 - translating to Arab language
+2026-10-18 03:25:37: 23 - translating to Bengali language
+2026-10-18 03:25:56: 42 - translating to Filipino language
+2026-10-18 03:26:15: 57 - translating to Hindi language
+2026-10-18 03:26:35: 63 - translating to Indonesia language
+2026-10-18 03:26:54: 64 - translating to Inggris language
+2026-10-18 03:27:12: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-18 03:27:31: 68 - translating to Inggris (Inggris Raya) language
+2026-10-18 03:27:52: 79 - translating to Jepang language
+2026-10-18 03:28:12: 80 - translating to Jerman language
+2026-10-18 03:28:32: 147 - translating to Persia language
+2026-10-18 03:28:52: 153 - translating to Portugis (Brasil) language
+2026-10-18 03:29:11: 155 - translating to Prancis language
+2026-10-18 03:29:29: 166 - translating to Rusia language
+2026-10-18 03:29:48: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 03:30:07: 204 - translating to Thai language
+2026-10-18 03:30:28: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 03:30:49: 219 - translating to Turki language
+2026-10-18 03:31:14: Start Transleting!
+2026-10-18 03:31:14: 166 - translating to Rusia language
+2026-10-18 03:31:33: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 03:31:53: 204 - translating to Thai language
+2026-10-18 03:32:12: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 03:32:32: 219 - translating to Turki language
+2026-10-18 03:33:11: Start Transleting!
+2026-10-18 03:33:11: 166 - translating to Rusia language
+2026-10-18 03:33:32: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 03:33:53: 204 - translating to Thai language
+2026-10-18 03:34:13: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 03:34:31: 219 - translating to Turki language
+2026-10-18 03:35:10: Start Transleting!
+2026-10-18 03:35:10: 166 - translating to Rusia language
+2026-10-18 03:35:30: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 03:35:50: 204 - translating to Thai language
+2026-10-18 03:36:10: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 03:36:30: 219 - translating to Turki language
+2026-10-18 03:36:51: 223 - translating to Urdu language
+2026-10-18 03:37:11: 227 - translating to Vietnam language
+2026-10-18 03:37:30: Translation content completed!
+2026-10-18 03:39:08: Read data source
+2026-10-18 03:39:08: Read data source
+2026-10-18 03:39:08: 6 - Uploading [Inggris]
+2026-10-18 03:39:38: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:39:38: -- paper_list bahasa ditemukan
+2026-10-18 03:39:38: -- Scroll to [Inggris] language!
+2026-10-18 03:39:40: -- [Inggris] language diklik!
+2026-10-18 03:39:41: -- ERROR element Inggris. error: Message: element click intercepted: Element <tp-yt-paper-item id="text-item-63" class="tp-yt-paper-item  selectable-item style-scope ytcp-text-menu style-scope ytcp-text-menu" test-id="en" role="option" disabled="" aria-hidden="false" style-target="host" tabindex="-1" aria-disabled="true" aria-selected="false" style="pointer-events: none;">...</tp-yt-paper-item> is not clickable at point (1116, 64). Other element would receive the click: <tp-yt-paper-listbox id="paper-list" selectable=".selectable-item" class="style-scope ytcp-text-menu" role="listbox" tabindex="0" autofocus="">...</tp-yt-paper-listbox>
+  (Session info: chrome=155.0.8059.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff69da7e745]
+	(No symbol) [0x7ff69d633d00]
+	(No symbol) [0x7ff69d463f3d]
+	(No symbol) [0x7ff69d4c74e3]
+	(No symbol) [0x7ff69d4c50da]
+	(No symbol) [0x7ff69d4c2417]
+	(No symbol) [0x7ff69d4c12d0]
+	(No symbol) [0x7ff69d4b3278]
+	(No symbol) [0x7ff69d4e8ada]
+	(No symbol) [0x7ff69d4b2af6]
+	(No symbol) [0x7ff69d514b5a]
+	(No symbol) [0x7ff69d4b1462]
+	(No symbol) [0x7ff69d4b2273]
+	(No symbol) [0x7ff69db217b1]
+	(No symbol) [0x7ff69db587c7]
+	(No symbol) [0x7ff69db4c85e]
+	(No symbol) [0x7ff69d7f884e]
+	(No symbol) [0x7ff69d640415]
+	(No symbol) [0x7ff69d63bdf4]
+	(No symbol) [0x7ff69d63bf84]
+	(No symbol) [0x7ff69d627f7c]
+	(No symbol) [0x7ffb3c8853e0]
+	(No symbol) [0x7ffb3e92485b]
+
+2026-10-18 03:39:43: 11 - Uploading [Persia]
+2026-10-18 03:39:52: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:39:52: -- paper_list bahasa ditemukan
+2026-10-18 03:39:52: -- Scroll to [Persia] language!
+2026-10-18 03:39:53: -- [Persia] language diklik!
+2026-10-18 03:39:59: -- Input title
+2026-10-18 03:40:03: -- Input description
+2026-10-18 03:40:14: -- Perbarui di klik!
+2026-10-18 03:40:18: 12 - Uploading [Portugis (Brasil)]
+2026-10-18 03:40:22: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:40:22: -- paper_list bahasa ditemukan
+2026-10-18 03:40:22: -- Scroll to [Portugis (Brasil)] language!
+2026-10-18 03:40:24: -- [Portugis (Brasil)] language diklik!
+2026-10-18 03:40:27: -- Input title
+2026-10-18 03:40:31: -- Input description
+2026-10-18 03:40:43: -- Perbarui di klik!
+2026-10-18 03:40:47: 13 - Uploading [Prancis]
+2026-10-18 03:40:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:40:53: -- paper_list bahasa ditemukan
+2026-10-18 03:40:53: -- Scroll to [Prancis] language!
+2026-10-18 03:40:54: -- [Prancis] language diklik!
+2026-10-18 03:40:59: -- Input title
+2026-10-18 03:41:03: -- Input description
+2026-10-18 03:41:15: -- Perbarui di klik!
+2026-10-18 03:41:20: 14 - Uploading [Rusia]
+2026-10-18 03:41:26: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:41:26: -- paper_list bahasa ditemukan
+2026-10-18 03:41:26: -- Scroll to [Rusia] language!
+2026-10-18 03:41:27: -- [Rusia] language diklik!
+2026-10-18 03:41:31: -- Input title
+2026-10-18 03:41:35: -- Input description
+2026-10-18 03:41:47: -- Perbarui di klik!
+2026-10-18 03:41:52: 15 - Uploading [Spanyol (Meksiko)]
+2026-10-18 03:42:08: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:42:08: -- paper_list bahasa ditemukan
+2026-10-18 03:42:08: -- Scroll to [Spanyol (Meksiko)] language!
+2026-10-18 03:42:10: -- [Spanyol (Meksiko)] language diklik!
+2026-10-18 03:42:13: -- Input title
+2026-10-18 03:42:18: -- Input description
+2026-10-18 03:42:28: -- Perbarui di klik!
+2026-10-18 03:42:32: 16 - Uploading [Thai]
+2026-10-18 03:42:37: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:42:37: -- paper_list bahasa ditemukan
+2026-10-18 03:42:37: -- Scroll to [Thai] language!
+2026-10-18 03:42:39: -- [Thai] language diklik!
+2026-10-18 03:42:43: -- Input title
+2026-10-18 03:42:46: -- Input description
+2026-10-18 03:42:56: -- Perbarui di klik!
+2026-10-18 03:43:02: 17 - Uploading [Tionghoa (Tiongkok)]
+2026-10-18 03:43:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:43:07: -- paper_list bahasa ditemukan
+2026-10-18 03:43:07: -- Scroll to [Tionghoa (Tiongkok)] language!
+2026-10-18 03:43:09: -- [Tionghoa (Tiongkok)] language diklik!
+2026-10-18 03:43:15: -- Input title
+2026-10-18 03:43:18: -- Input description
+2026-10-18 03:43:25: -- Perbarui di klik!
+2026-10-18 03:43:28: 18 - Uploading [Turki]
+2026-10-18 03:43:35: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:43:35: -- paper_list bahasa ditemukan
+2026-10-18 03:43:35: -- Scroll to [Turki] language!
+2026-10-18 03:43:37: -- [Turki] language diklik!
+2026-10-18 03:43:42: -- Input title
+2026-10-18 03:43:46: -- Input description
+2026-10-18 03:43:57: -- Perbarui di klik!
+2026-10-18 03:44:02: 19 - Uploading [Urdu]
+2026-10-18 03:44:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:44:07: -- paper_list bahasa ditemukan
+2026-10-18 03:44:07: -- Scroll to [Urdu] language!
+2026-10-18 03:44:08: -- [Urdu] language diklik!
+2026-10-18 03:44:12: -- Input title
+2026-10-18 03:44:17: -- Input description
+2026-10-18 03:44:28: -- Perbarui di klik!
+2026-10-18 03:44:30: 20 - Uploading [Vietnam]
+2026-10-18 03:44:36: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:44:36: -- paper_list bahasa ditemukan
+2026-10-18 03:44:36: -- Scroll to [Vietnam] language!
+2026-10-18 03:44:37: -- [Vietnam] language diklik!
+2026-10-18 03:44:42: -- Input title
+2026-10-18 03:44:46: -- Input description
+2026-10-18 03:44:59: -- Perbarui di klik!
+2026-10-18 03:45:04: Uploaded content in many lang completed!
+2026-10-18 03:45:35: Getting available language
+2026-10-18 03:45:39: Found 10 available language
+2026-10-18 03:45:39: Load to csv
+2026-10-18 03:45:39: Completed!
+2026-10-18 03:46:13: Read data source
+2026-10-18 03:46:13: Read data source
+2026-10-18 03:46:13: 1 - Uploading [Arab]
+2026-10-18 03:46:18: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:46:18: -- paper_list bahasa ditemukan
+2026-10-18 03:46:18: -- Scroll to [Arab] language!
+2026-10-18 03:46:19: -- [Arab] language diklik!
+2026-10-18 03:46:25: -- Input title
+2026-10-18 03:46:29: -- Input description
+2026-10-18 03:46:40: -- Perbarui di klik!
+2026-10-18 03:46:45: 2 - Uploading [Bengali]
+2026-10-18 03:46:52: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:46:52: -- paper_list bahasa ditemukan
+2026-10-18 03:46:52: -- Scroll to [Bengali] language!
+2026-10-18 03:46:54: -- [Bengali] language diklik!
+2026-10-18 03:46:58: -- Input title
+2026-10-18 03:47:02: -- Input description
+2026-10-18 03:47:13: -- Perbarui di klik!
+2026-10-18 03:47:17: 3 - Uploading [Filipino]
+2026-10-18 03:47:23: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:47:23: -- paper_list bahasa ditemukan
+2026-10-18 03:47:23: -- Scroll to [Filipino] language!
+2026-10-18 03:47:24: -- [Filipino] language diklik!
+2026-10-18 03:47:29: -- Input title
+2026-10-18 03:47:33: -- Input description
+2026-10-18 03:47:43: -- Perbarui di klik!
+2026-10-18 03:47:47: 4 - Uploading [Hindi]
+2026-10-18 03:47:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:47:53: -- paper_list bahasa ditemukan
+2026-10-18 03:47:53: -- Scroll to [Hindi] language!
+2026-10-18 03:47:55: -- [Hindi] language diklik!
+2026-10-18 03:48:00: -- Input title
+2026-10-18 03:48:03: -- Input description
+2026-10-18 03:48:15: -- Perbarui di klik!
+2026-10-18 03:48:18: 5 - Uploading [Indonesia]
+2026-10-18 03:48:23: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:48:23: -- paper_list bahasa ditemukan
+2026-10-18 03:48:23: -- Scroll to [Indonesia] language!
+2026-10-18 03:48:24: -- [Indonesia] language diklik!
+2026-10-18 03:48:28: -- Input title
+2026-10-18 03:48:33: -- Input description
+2026-10-18 03:48:44: -- Perbarui di klik!
+2026-10-18 03:48:48: 6 - Uploading [Inggris]
+2026-10-18 03:48:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:48:53: -- paper_list bahasa ditemukan
+2026-10-18 03:48:53: -- Scroll to [Inggris] language!
+2026-10-18 03:48:54: -- [Inggris] language diklik!
+2026-10-18 03:48:55: -- ERROR element Inggris. error: Message: element click intercepted: Element <tp-yt-paper-item id="text-item-63" class="tp-yt-paper-item  selectable-item style-scope ytcp-text-menu style-scope ytcp-text-menu" test-id="en" role="option" disabled="" aria-hidden="false" style-target="host" tabindex="-1" aria-disabled="true" aria-selected="false" style="pointer-events: none;">...</tp-yt-paper-item> is not clickable at point (1106, 64). Other element would receive the click: <tp-yt-paper-listbox id="paper-list" selectable=".selectable-item" class="style-scope ytcp-text-menu" role="listbox" tabindex="0" autofocus="">...</tp-yt-paper-listbox>
+  (Session info: chrome=155.0.8059.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff69da7e745]
+	(No symbol) [0x7ff69d633d00]
+	(No symbol) [0x7ff69d463f3d]
+	(No symbol) [0x7ff69d4c74e3]
+	(No symbol) [0x7ff69d4c50da]
+	(No symbol) [0x7ff69d4c2417]
+	(No symbol) [0x7ff69d4c12d0]
+	(No symbol) [0x7ff69d4b3278]
+	(No symbol) [0x7ff69d4e8ada]
+	(No symbol) [0x7ff69d4b2af6]
+	(No symbol) [0x7ff69d514b5a]
+	(No symbol) [0x7ff69d4b1462]
+	(No symbol) [0x7ff69d4b2273]
+	(No symbol) [0x7ff69db217b1]
+	(No symbol) [0x7ff69db587c7]
+	(No symbol) [0x7ff69db4c85e]
+	(No symbol) [0x7ff69d7f884e]
+	(No symbol) [0x7ff69d640415]
+	(No symbol) [0x7ff69d63bdf4]
+	(No symbol) [0x7ff69d63bf84]
+	(No symbol) [0x7ff69d627f7c]
+	(No symbol) [0x7ffb3c8853e0]
+	(No symbol) [0x7ffb3e92485b]
+
+2026-10-18 03:48:57: 7 - Uploading [Inggris (Amerika Serikat)]
+2026-10-18 03:49:01: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:49:01: -- paper_list bahasa ditemukan
+2026-10-18 03:49:01: -- Scroll to [Inggris (Amerika Serikat)] language!
+2026-10-18 03:49:03: -- [Inggris (Amerika Serikat)] language diklik!
+2026-10-18 03:49:07: -- Input title
+2026-10-18 03:49:10: -- Input description
+2026-10-18 03:49:21: -- Perbarui di klik!
+2026-10-18 03:49:27: 8 - Uploading [Inggris (Inggris Raya)]
+2026-10-18 03:49:31: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:49:31: -- paper_list bahasa ditemukan
+2026-10-18 03:49:32: -- Scroll to [Inggris (Inggris Raya)] language!
+2026-10-18 03:49:33: -- [Inggris (Inggris Raya)] language diklik!
+2026-10-18 03:49:37: -- Input title
+2026-10-18 03:49:40: -- Input description
+2026-10-18 03:49:51: -- Perbarui di klik!
+2026-10-18 03:49:56: 9 - Uploading [Jepang]
+2026-10-18 03:50:02: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:50:02: -- paper_list bahasa ditemukan
+2026-10-18 03:50:02: -- Scroll to [Jepang] language!
+2026-10-18 03:50:04: -- [Jepang] language diklik!
+2026-10-18 03:50:07: -- Input title
+2026-10-18 03:50:10: -- Input description
+2026-10-18 03:50:18: -- Perbarui di klik!
+2026-10-18 03:50:23: 10 - Uploading [Jerman]
+2026-10-18 03:50:30: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:50:30: -- paper_list bahasa ditemukan
+2026-10-18 03:50:30: -- Scroll to [Jerman] language!
+2026-10-18 03:50:32: -- [Jerman] language diklik!
+2026-10-18 03:50:37: -- Input title
+2026-10-18 03:50:41: -- Input description
+2026-10-18 03:50:53: -- Perbarui di klik!
+2026-10-18 03:50:56: Uploaded content in many lang completed!
+2026-10-18 03:51:21: Getting available language
+2026-10-18 03:51:27: Found 19 available language
+2026-10-18 03:51:27: Load to csv
+2026-10-18 03:51:27: Completed!
+2026-10-18 03:51:41: Read data source
+2026-10-18 03:51:41: Read data source
+2026-10-18 03:51:41: 6 - Uploading [Inggris]
+2026-10-18 03:51:48: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 03:51:48: -- paper_list bahasa ditemukan
+2026-10-18 03:51:48: -- Scroll to [Inggris] language!
+2026-10-18 03:51:50: -- [Inggris] language diklik!
+2026-10-18 03:51:53: -- Input title
+2026-10-18 03:51:56: -- Input description
+2026-10-18 03:52:02: -- Perbarui di klik!
+2026-10-18 03:52:17: -- ERROR element Inggris. error: Message: 
+
+2026-10-18 03:52:20: Uploaded content in many lang completed!
+2026-10-18 03:55:27: Start Transleting!
+2026-10-18 03:55:27: Translation content completed!
+2026-10-18 03:56:17: Start Transleting!
+2026-10-18 03:56:17: 8 - translating to Arab language
+2026-10-18 03:56:37: 23 - translating to Bengali language
+2026-10-18 03:56:57: 42 - translating to Filipino language
+2026-10-18 03:57:17: 57 - translating to Hindi language
+2026-10-18 03:57:36: 63 - translating to Indonesia language
+2026-10-18 03:57:55: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-18 03:58:16: 68 - translating to Inggris (Inggris Raya) language
+2026-10-18 03:58:36: 79 - translating to Jepang language
+2026-10-18 03:58:55: 80 - translating to Jerman language
+2026-10-18 03:59:15: 147 - translating to Persia language
+2026-10-18 03:59:35: 153 - translating to Portugis (Brasil) language
+2026-10-18 03:59:56: 155 - translating to Prancis language
+2026-10-18 04:00:16: 166 - translating to Rusia language
+2026-10-18 04:00:36: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 04:00:55: 204 - translating to Thai language
+2026-10-18 04:01:13: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 04:01:32: 219 - translating to Turki language
+2026-10-18 04:01:52: 223 - translating to Urdu language
+2026-10-18 04:02:09: 227 - translating to Vietnam language
+2026-10-18 04:02:27: Translation content completed!
+2026-10-18 04:04:17: Start Transleting!
+2026-10-18 04:04:17: 66 - translating to Inggris (Australia) language
+2026-10-18 04:04:37: 67 - translating to Inggris (India) language
+2026-10-18 04:04:57: 69 - translating to Inggris (Irlandia) language
+2026-10-18 04:05:17: 70 - translating to Inggris (Kanada) language
+2026-10-18 04:05:37: Translation content completed!
+2026-10-18 04:07:58: Read data source
+2026-10-18 04:07:58: Read data source
+2026-10-18 04:07:58: 20 - Uploading [Inggris (Australia)]
+2026-10-18 04:08:05: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 04:08:05: -- paper_list bahasa ditemukan
+2026-10-18 04:08:05: -- Scroll to [Inggris (Australia)] language!
+2026-10-18 04:08:06: -- [Inggris (Australia)] language diklik!
+2026-10-18 04:08:11: -- Input title
+2026-10-18 04:08:14: -- Input description
+2026-10-18 04:08:26: -- Perbarui di klik!
+2026-10-18 04:08:31: 21 - Uploading [Inggris (India)]
+2026-10-18 04:08:35: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 04:08:35: -- paper_list bahasa ditemukan
+2026-10-18 04:08:35: -- Scroll to [Inggris (India)] language!
+2026-10-18 04:08:37: -- [Inggris (India)] language diklik!
+2026-10-18 04:08:42: -- Input title
+2026-10-18 04:08:46: -- Input description
+2026-10-18 04:08:57: -- Perbarui di klik!
+2026-10-18 04:09:01: 22 - Uploading [Inggris (Irlandia)]
+2026-10-18 04:09:06: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 04:09:06: -- paper_list bahasa ditemukan
+2026-10-18 04:09:06: -- Scroll to [Inggris (Irlandia)] language!
+2026-10-18 04:09:07: -- [Inggris (Irlandia)] language diklik!
+2026-10-18 04:09:12: -- Input title
+2026-10-18 04:09:14: -- Input description
+2026-10-18 04:09:26: -- Perbarui di klik!
+2026-10-18 04:09:29: 23 - Uploading [Inggris (Kanada)]
+2026-10-18 04:09:34: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 04:09:34: -- paper_list bahasa ditemukan
+2026-10-18 04:09:34: -- Scroll to [Inggris (Kanada)] language!
+2026-10-18 04:09:36: -- [Inggris (Kanada)] language diklik!
+2026-10-18 04:09:41: -- Input title
+2026-10-18 04:09:44: -- Input description
+2026-10-18 04:09:56: -- Perbarui di klik!
+2026-10-18 04:09:59: Uploaded content in many lang completed!
+2026-10-18 05:17:54: Start Transleting!
+2026-10-18 05:17:54: 8 - translating to Arab language
+2026-10-18 05:18:15: 23 - translating to Bengali language
+2026-10-18 05:18:36: 42 - translating to Filipino language
+2026-10-18 05:18:55: 57 - translating to Hindi language
+2026-10-18 05:19:19: 63 - translating to Indonesia language
+2026-10-18 05:19:40: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-18 05:19:59: 66 - translating to Inggris (Australia) language
+2026-10-18 05:20:19: 67 - translating to Inggris (India) language
+2026-10-18 05:20:37: 68 - translating to Inggris (Inggris Raya) language
+2026-10-18 05:20:55: 69 - translating to Inggris (Irlandia) language
+2026-10-18 05:21:14: 70 - translating to Inggris (Kanada) language
+2026-10-18 05:21:33: 79 - translating to Jepang language
+2026-10-18 05:21:52: 80 - translating to Jerman language
+2026-10-18 05:22:11: 147 - translating to Persia language
+2026-10-18 05:22:57: Start Transleting!
+2026-10-18 05:22:57: 147 - translating to Persia language
+2026-10-18 05:23:17: 153 - translating to Portugis (Brasil) language
+2026-10-18 05:23:39: 155 - translating to Prancis language
+2026-10-18 05:24:02: 166 - translating to Rusia language
+2026-10-18 05:24:23: 192 - translating to Spanyol (Meksiko) language
+2026-10-18 05:24:43: 204 - translating to Thai language
+2026-10-18 05:25:03: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-18 05:25:23: 219 - translating to Turki language
+2026-10-18 05:25:46: 223 - translating to Urdu language
+2026-10-18 05:26:08: 227 - translating to Vietnam language
+2026-10-18 05:26:28: Translation content completed!
+2026-10-18 05:28:00: Read data source
+2026-10-18 05:28:00: Read data source
+2026-10-18 05:28:00: 7 - Uploading [Inggris (Australia)]
+2026-10-18 05:28:08: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:28:08: -- paper_list bahasa ditemukan
+2026-10-18 05:28:08: -- Scroll to [Inggris (Australia)] language!
+2026-10-18 05:28:10: -- [Inggris (Australia)] language diklik!
+2026-10-18 05:28:14: -- Input title
+2026-10-18 05:28:17: -- Input description
+2026-10-18 05:28:28: -- Perbarui di klik!
+2026-10-18 05:28:31: 8 - Uploading [Inggris (India)]
+2026-10-18 05:28:36: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:28:36: -- paper_list bahasa ditemukan
+2026-10-18 05:28:36: -- Scroll to [Inggris (India)] language!
+2026-10-18 05:28:38: -- [Inggris (India)] language diklik!
+2026-10-18 05:28:42: -- Input title
+2026-10-18 05:28:45: -- Input description
+2026-10-18 05:28:58: -- Perbarui di klik!
+2026-10-18 05:29:02: 10 - Uploading [Inggris (Irlandia)]
+2026-10-18 05:29:07: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:29:07: -- paper_list bahasa ditemukan
+2026-10-18 05:29:07: -- Scroll to [Inggris (Irlandia)] language!
+2026-10-18 05:29:08: -- [Inggris (Irlandia)] language diklik!
+2026-10-18 05:29:13: -- Input title
+2026-10-18 05:29:17: -- Input description
+2026-10-18 05:29:30: -- Perbarui di klik!
+2026-10-18 05:29:33: 11 - Uploading [Inggris (Kanada)]
+2026-10-18 05:29:37: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:29:37: -- paper_list bahasa ditemukan
+2026-10-18 05:29:37: -- Scroll to [Inggris (Kanada)] language!
+2026-10-18 05:29:39: -- [Inggris (Kanada)] language diklik!
+2026-10-18 05:29:44: -- Input title
+2026-10-18 05:29:47: -- Input description
+2026-10-18 05:29:59: -- Perbarui di klik!
+2026-10-18 05:30:03: Uploaded content in many lang completed!
+2026-10-18 05:41:03: Getting available language
+2026-10-18 05:41:07: Found 4 available language
+2026-10-18 05:41:07: Load to csv
+2026-10-18 05:41:07: Completed!
+2026-10-18 05:41:46: Read data source
+2026-10-18 05:41:46: Read exists data source
+2026-10-18 05:41:46: 1 - Uploading [Arab]
+2026-10-18 05:41:51: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:41:51: -- paper_list bahasa ditemukan
+2026-10-18 05:41:51: -- Scroll to [Arab] language!
+2026-10-18 05:41:52: -- [Arab] language diklik!
+2026-10-18 05:41:57: -- Input title
+2026-10-18 05:42:00: -- Input description
+2026-10-18 05:42:12: -- Perbarui di klik!
+2026-10-18 05:42:16: 2 - Uploading [Bengali]
+2026-10-18 05:42:20: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:42:20: -- paper_list bahasa ditemukan
+2026-10-18 05:42:20: -- Scroll to [Bengali] language!
+2026-10-18 05:42:21: -- [Bengali] language diklik!
+2026-10-18 05:42:27: -- Input title
+2026-10-18 05:42:31: -- Input description
+2026-10-18 05:42:44: -- Perbarui di klik!
+2026-10-18 05:42:47: 3 - Uploading [Filipino]
+2026-10-18 05:42:53: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:42:53: -- paper_list bahasa ditemukan
+2026-10-18 05:42:53: -- Scroll to [Filipino] language!
+2026-10-18 05:42:54: -- [Filipino] language diklik!
+2026-10-18 05:42:58: -- Input title
+2026-10-18 05:43:02: -- Input description
+2026-10-18 05:43:14: -- Perbarui di klik!
+2026-10-18 05:43:19: 4 - Uploading [Hindi]
+2026-10-18 05:43:24: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:43:24: -- paper_list bahasa ditemukan
+2026-10-18 05:43:24: -- Scroll to [Hindi] language!
+2026-10-18 05:43:25: -- [Hindi] language diklik!
+2026-10-18 05:43:30: -- Input title
+2026-10-18 05:43:34: -- Input description
+2026-10-18 05:43:47: -- Perbarui di klik!
+2026-10-18 05:43:50: 5 - Uploading [Indonesia]
+2026-10-18 05:43:54: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:43:54: -- paper_list bahasa ditemukan
+2026-10-18 05:43:54: -- Scroll to [Indonesia] language!
+2026-10-18 05:43:56: -- [Indonesia] language diklik!
+2026-10-18 05:44:01: -- Input title
+2026-10-18 05:44:04: -- Input description
+2026-10-18 05:44:15: -- Perbarui di klik!
+2026-10-18 05:44:21: 6 - Uploading [Inggris (Amerika Serikat)]
+2026-10-18 05:44:25: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:44:25: -- paper_list bahasa ditemukan
+2026-10-18 05:44:25: -- Scroll to [Inggris (Amerika Serikat)] language!
+2026-10-18 05:44:27: -- [Inggris (Amerika Serikat)] language diklik!
+2026-10-18 05:44:32: -- Input title
+2026-10-18 05:44:36: -- Input description
+2026-10-18 05:44:47: -- Perbarui di klik!
+2026-10-18 05:44:51: 9 - Uploading [Inggris (Inggris Raya)]
+2026-10-18 05:44:57: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:44:57: -- paper_list bahasa ditemukan
+2026-10-18 05:44:57: -- Scroll to [Inggris (Inggris Raya)] language!
+2026-10-18 05:44:59: -- [Inggris (Inggris Raya)] language diklik!
+2026-10-18 05:45:03: -- Input title
+2026-10-18 05:45:07: -- Input description
+2026-10-18 05:45:19: -- Perbarui di klik!
+2026-10-18 05:45:24: 12 - Uploading [Jepang]
+2026-10-18 05:45:28: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:45:28: -- paper_list bahasa ditemukan
+2026-10-18 05:45:28: -- Scroll to [Jepang] language!
+2026-10-18 05:45:30: -- [Jepang] language diklik!
+2026-10-18 05:45:34: -- Input title
+2026-10-18 05:45:37: -- Input description
+2026-10-18 05:45:45: -- Perbarui di klik!
+2026-10-18 05:45:49: 13 - Uploading [Jerman]
+2026-10-18 05:46:12: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:46:12: -- paper_list bahasa ditemukan
+2026-10-18 05:46:12: -- Scroll to [Jerman] language!
+2026-10-18 05:46:13: -- [Jerman] language diklik!
+2026-10-18 05:46:17: -- Input title
+2026-10-18 05:46:21: -- Input description
+2026-10-18 05:46:34: -- Perbarui di klik!
+2026-10-18 05:46:37: 14 - Uploading [Persia]
+2026-10-18 05:46:42: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:46:42: -- paper_list bahasa ditemukan
+2026-10-18 05:46:42: -- Scroll to [Persia] language!
+2026-10-18 05:46:44: -- [Persia] language diklik!
+2026-10-18 05:46:47: -- Input title
+2026-10-18 05:46:51: -- Input description
+2026-10-18 05:46:56: -- Perbarui di klik!
+2026-10-18 05:46:59: 15 - Uploading [Portugis (Brasil)]
+2026-10-18 05:47:04: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:47:04: -- paper_list bahasa ditemukan
+2026-10-18 05:47:04: -- Scroll to [Portugis (Brasil)] language!
+2026-10-18 05:47:06: -- [Portugis (Brasil)] language diklik!
+2026-10-18 05:47:11: -- Input title
+2026-10-18 05:47:14: -- Input description
+2026-10-18 05:47:28: -- Perbarui di klik!
+2026-10-18 05:47:32: 16 - Uploading [Prancis]
+2026-10-18 05:47:37: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:47:37: -- paper_list bahasa ditemukan
+2026-10-18 05:47:37: -- Scroll to [Prancis] language!
+2026-10-18 05:47:38: -- [Prancis] language diklik!
+2026-10-18 05:47:43: -- Input title
+2026-10-18 05:47:47: -- Input description
+2026-10-18 05:47:59: -- Perbarui di klik!
+2026-10-18 05:48:03: 17 - Uploading [Rusia]
+2026-10-18 05:48:08: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:48:08: -- paper_list bahasa ditemukan
+2026-10-18 05:48:08: -- Scroll to [Rusia] language!
+2026-10-18 05:48:10: -- [Rusia] language diklik!
+2026-10-18 05:48:13: -- Input title
+2026-10-18 05:48:17: -- Input description
+2026-10-18 05:48:30: -- Perbarui di klik!
+2026-10-18 05:48:34: 18 - Uploading [Spanyol (Meksiko)]
+2026-10-18 05:50:50: Getting available language
+2026-10-18 05:51:33: Found 16 available language
+2026-10-18 05:51:33: Load to csv
+2026-10-18 05:51:33: Completed!
+2026-10-18 05:51:52: Read data source
+2026-10-18 05:51:52: Read exists data source
+2026-10-18 05:51:52: 12 - Uploading [Jepang]
+2026-10-18 05:52:03: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:52:03: -- paper_list bahasa ditemukan
+2026-10-18 05:52:03: -- Scroll to [Jepang] language!
+2026-10-18 05:52:05: -- [Jepang] language diklik!
+2026-10-18 05:52:10: -- Input title
+2026-10-18 05:52:13: -- Input description
+2026-10-18 05:52:21: -- Perbarui di klik!
+2026-10-18 05:52:26: 18 - Uploading [Spanyol (Meksiko)]
+2026-10-18 05:52:30: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:52:30: -- paper_list bahasa ditemukan
+2026-10-18 05:52:30: -- Scroll to [Spanyol (Meksiko)] language!
+2026-10-18 05:52:32: -- [Spanyol (Meksiko)] language diklik!
+2026-10-18 05:52:37: -- Input title
+2026-10-18 05:52:42: -- Input description
+2026-10-18 05:52:54: -- Perbarui di klik!
+2026-10-18 05:52:58: 19 - Uploading [Thai]
+2026-10-18 05:53:03: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:53:03: -- paper_list bahasa ditemukan
+2026-10-18 05:53:03: -- Scroll to [Thai] language!
+2026-10-18 05:53:05: -- [Thai] language diklik!
+2026-10-18 05:53:09: -- Input title
+2026-10-18 05:53:13: -- Input description
+2026-10-18 05:53:24: -- Perbarui di klik!
+2026-10-18 05:53:28: 20 - Uploading [Tionghoa (Tiongkok)]
+2026-10-18 05:53:34: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:53:34: -- paper_list bahasa ditemukan
+2026-10-18 05:53:34: -- Scroll to [Tionghoa (Tiongkok)] language!
+2026-10-18 05:53:36: -- [Tionghoa (Tiongkok)] language diklik!
+2026-10-18 05:53:41: -- Input title
+2026-10-18 05:53:45: -- Input description
+2026-10-18 05:53:52: -- Perbarui di klik!
+2026-10-18 05:53:56: 21 - Uploading [Turki]
+2026-10-18 05:54:01: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:54:01: -- paper_list bahasa ditemukan
+2026-10-18 05:54:01: -- Scroll to [Turki] language!
+2026-10-18 05:54:03: -- [Turki] language diklik!
+2026-10-18 05:54:08: -- Input title
+2026-10-18 05:54:12: -- Input description
+2026-10-18 05:54:26: -- Perbarui di klik!
+2026-10-18 05:54:29: 22 - Uploading [Urdu]
+2026-10-18 05:54:36: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:54:36: -- paper_list bahasa ditemukan
+2026-10-18 05:54:36: -- Scroll to [Urdu] language!
+2026-10-18 05:54:37: -- [Urdu] language diklik!
+2026-10-18 05:54:42: -- Input title
+2026-10-18 05:54:47: -- Input description
+2026-10-18 05:54:59: -- Perbarui di klik!
+2026-10-18 05:55:03: 23 - Uploading [Vietnam]
+2026-10-18 05:55:08: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-18 05:55:08: -- paper_list bahasa ditemukan
+2026-10-18 05:55:08: -- Scroll to [Vietnam] language!
+2026-10-18 05:55:10: -- [Vietnam] language diklik!
+2026-10-18 05:55:14: -- Input title
+2026-10-18 05:55:18: -- Input description
+2026-10-18 05:55:30: -- Perbarui di klik!
+2026-10-18 05:55:34: Uploaded content in many lang completed!
+2026-10-18 05:56:38: Getting available language
+2026-10-18 05:56:43: Found 23 available language
+2026-10-18 05:56:43: Load to csv
+2026-10-18 05:56:43: Completed!
+2026-10-18 05:56:50: Read data source
+2026-10-18 05:56:50: Read exists data source
+2026-10-18 05:56:50: Uploaded content in many lang completed!

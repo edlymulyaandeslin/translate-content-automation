@@ -75,12 +75,12 @@ def upload_lang(driver, url, data):
         log_progress(f"-- ERROR element {lang}. error: {e}")
         return False
 
-url = "https://studio.youtube.com/video/gxqOYWGANGw/translations"
+url = "https://studio.youtube.com/video/jCS2wuBGSeQ/translations"
 
 log_progress("Read data source")
 data_source = read_from_csv("./results/data_source.csv")
 
-log_progress("Read data source")
+log_progress("Read exists data source")
 is_available = read_from_csv("./results/lang_available.csv")
 available_langs = set(is_available["lang"].dropna())
 

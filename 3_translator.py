@@ -12,8 +12,10 @@ driver = create_driver()
 def translate_language(title, description, language, attribs_col):
     try:
         lang_code = language.code
+        
+        lang_code = lang_code if lang_code == "zh-CN" else lang_code.split("-")[0]
 
-        translate_url = f"https://translate.google.co.id/?sl=en&tl={lang_code}&op=translate"
+        translate_url = f"https://translate.google.co.id/?sl=id&tl={lang_code}&op=translate"
 
         driver.get(translate_url) 
         
@@ -31,13 +33,13 @@ def translate_language(title, description, language, attribs_col):
         
         text_area.send_keys(description)
 
-        delay(3, 4)
+        delay(4, 5)
         
         result_desc = wait_for_element(driver, By.CLASS_NAME, "HwtZe").text
 
         data_dict = {
             "lang": language.language_name,
-            "lang_code": lang_code,
+            "lang_code": language.code,
             "title": result_title,
             "description": result_desc
         }
@@ -45,7 +47,7 @@ def translate_language(title, description, language, attribs_col):
         df = pd.DataFrame([data_dict], columns=attribs_col)
         
         return df, True
-    except Exception as e:
+    except Exception as _:
         return [], False
 
 def load_to_csv(df):
@@ -60,18 +62,27 @@ def read_from_txt(filepath):
 ###############################################################
 # Main Function
 ###############################################################
+lang_top_internet_users = [
+    "zh-CN", "hi", "en-US", "id", "pt-BR",
+    "ru", "ur", "es-MX", "ja",
+    "ar", "fil", "vi", "bn", "de",
+    "tr", "fa", "en-GB", "th", "fr",
+    "en-AU", "en-IN", "en-IE", "en-CA"
+]
 
 languages = read_from_csv("./results/languages.csv")
 
-transcript = read_from_txt("./transcript.txt")
+languages = languages[
+    languages["code"].isin(lang_top_internet_users)
+]
 
+transcript = read_from_txt("./transcript.txt")
 title = transcript[0]
 description = transcript[1]
+
 attribs_col = ["lang", "lang_code", "title", "description"]
 
-
 file_path = Path("./results/data_source.csv")
-
 if file_path.exists():
     df_result = pd.read_csv(file_path)
 else:
@@ -81,19 +92,20 @@ exists_lang = set(df_result['lang_code'].dropna())
 
 log_progress("Start Transleting!")
 for lang in languages.itertuples():
-    if lang.code == "en" or lang.code in exists_lang or lang.Index > 100:
+    if lang.code in exists_lang:
         continue
 
     log_progress(f"{lang.Index + 1} - translating to {lang.language_name} language")
     df_translate, success = translate_language(title, description, lang, attribs_col)
 
     if not success:
+        log_progress(f"ERROR - translating to {lang.language_name} language")
         continue
 
     df_result = pd.concat([df_result, df_translate], ignore_index=True)
     
-    if (lang.Index > 10) and (lang.Index % 2 == 0):
-        load_to_csv(df_result)
+    # save to file
+    load_to_csv(df_result)
 
 log_progress("Translation content completed!")
 
