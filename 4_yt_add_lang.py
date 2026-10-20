@@ -75,7 +75,7 @@ def upload_lang(driver, url, data):
         log_progress(f"-- ERROR element {lang}. error: {e}")
         return False
 
-url = "https://studio.youtube.com/video/jCS2wuBGSeQ/translations"
+url = "https://studio.youtube.com/video/0q1m4sEtG0w/translations"
 
 log_progress("Read data source")
 data_source = read_from_csv("./results/data_source.csv")

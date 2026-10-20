@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from utilities.utils import root_dir
 
 BASE_DIR = root_dir(Path(__file__))
-PROFILE_DIR = BASE_DIR / "chrome_profile"
+PROFILE_DIR = BASE_DIR / "profiles" / "e09_yt"
 
 def create_driver():
     options = webdriver.ChromeOptions()

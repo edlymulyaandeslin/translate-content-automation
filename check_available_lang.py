@@ -26,7 +26,7 @@ def extract_available(driver, url):
         log_progress(f"Error: {e}")
         raise e
 
-url = "https://studio.youtube.com/video/jCS2wuBGSeQ/translations"
+url = "https://studio.youtube.com/video/0q1m4sEtG0w/translations"
 
 log_progress("Getting available language")
 available_lang = extract_available(driver, url)

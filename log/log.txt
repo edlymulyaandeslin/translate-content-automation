@@ -4813,3 +4813,197 @@ Symbols not available. Dumping unresolved backtrace:
 2026-10-18 05:56:50: Read data source
 2026-10-18 05:56:50: Read exists data source
 2026-10-18 05:56:50: Uploaded content in many lang completed!
+2026-10-20 15:29:11: Getting available language
+2026-10-20 15:29:58: Found 20 available language
+2026-10-20 15:29:58: Load to csv
+2026-10-20 15:29:58: Completed!
+2026-10-20 15:32:46: Start Transleting!
+2026-10-20 15:32:46: 8 - translating to Arab language
+2026-10-20 15:33:53: Start Transleting!
+2026-10-20 15:33:53: 8 - translating to Arab language
+2026-10-20 15:34:28: 23 - translating to Bengali language
+2026-10-20 15:34:59: 42 - translating to Filipino language
+2026-10-20 15:35:21: 57 - translating to Hindi language
+2026-10-20 15:35:45: 63 - translating to Indonesia language
+2026-10-20 15:36:14: 65 - translating to Inggris (Amerika Serikat) language
+2026-10-20 15:36:38: 66 - translating to Inggris (Australia) language
+2026-10-20 15:37:00: 67 - translating to Inggris (India) language
+2026-10-20 15:37:22: 68 - translating to Inggris (Inggris Raya) language
+2026-10-20 15:37:48: 69 - translating to Inggris (Irlandia) language
+2026-10-20 15:38:08: 70 - translating to Inggris (Kanada) language
+2026-10-20 15:38:27: 79 - translating to Jepang language
+2026-10-20 15:38:47: 80 - translating to Jerman language
+2026-10-20 15:39:12: 147 - translating to Persia language
+2026-10-20 15:39:35: 153 - translating to Portugis (Brasil) language
+2026-10-20 15:39:55: 155 - translating to Prancis language
+2026-10-20 15:40:19: 166 - translating to Rusia language
+2026-10-20 15:40:42: 192 - translating to Spanyol (Meksiko) language
+2026-10-20 15:41:02: 204 - translating to Thai language
+2026-10-20 15:41:25: 212 - translating to Tionghoa (Tiongkok) language
+2026-10-20 15:41:46: 219 - translating to Turki language
+2026-10-20 15:42:07: 223 - translating to Urdu language
+2026-10-20 15:42:28: 227 - translating to Vietnam language
+2026-10-20 15:42:49: Translation content completed!
+2026-10-20 15:44:57: Read data source
+2026-10-20 15:44:57: Read exists data source
+2026-10-20 15:44:57: 3 - Uploading [Filipino]
+2026-10-20 15:45:06: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:45:06: -- paper_list bahasa ditemukan
+2026-10-20 15:45:06: -- Scroll to [Filipino] language!
+2026-10-20 15:45:08: -- [Filipino] language diklik!
+2026-10-20 15:45:12: -- Input title
+2026-10-20 15:45:15: -- Input description
+2026-10-20 15:45:25: -- Perbarui di klik!
+2026-10-20 15:45:29: 6 - Uploading [Inggris (Amerika Serikat)]
+2026-10-20 15:45:36: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:45:36: -- paper_list bahasa ditemukan
+2026-10-20 15:45:36: -- Scroll to [Inggris (Amerika Serikat)] language!
+2026-10-20 15:45:38: -- [Inggris (Amerika Serikat)] language diklik!
+2026-10-20 15:45:43: -- Input title
+2026-10-20 15:45:47: -- Input description
+2026-10-20 15:45:54: -- Perbarui di klik!
+2026-10-20 15:45:58: 7 - Uploading [Inggris (Australia)]
+2026-10-20 15:46:06: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:46:06: -- paper_list bahasa ditemukan
+2026-10-20 15:46:06: -- Scroll to [Inggris (Australia)] language!
+2026-10-20 15:46:08: -- [Inggris (Australia)] language diklik!
+2026-10-20 15:46:13: -- Input title
+2026-10-20 15:46:16: -- Input description
+2026-10-20 15:46:24: -- Perbarui di klik!
+2026-10-20 15:46:28: 8 - Uploading [Inggris (India)]
+2026-10-20 15:46:35: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:46:35: -- paper_list bahasa ditemukan
+2026-10-20 15:46:35: -- Scroll to [Inggris (India)] language!
+2026-10-20 15:46:37: -- [Inggris (India)] language diklik!
+2026-10-20 15:46:41: -- Input title
+2026-10-20 15:46:44: -- Input description
+2026-10-20 15:46:51: -- Perbarui di klik!
+2026-10-20 15:46:54: 9 - Uploading [Inggris (Inggris Raya)]
+2026-10-20 15:46:59: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:46:59: -- paper_list bahasa ditemukan
+2026-10-20 15:46:59: -- Scroll to [Inggris (Inggris Raya)] language!
+2026-10-20 15:47:01: -- [Inggris (Inggris Raya)] language diklik!
+2026-10-20 15:47:05: -- Input title
+2026-10-20 15:47:09: -- Input description
+2026-10-20 15:47:18: -- Perbarui di klik!
+2026-10-20 15:47:22: 10 - Uploading [Inggris (Irlandia)]
+2026-10-20 15:47:31: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:47:32: -- paper_list bahasa ditemukan
+2026-10-20 15:47:32: -- Scroll to [Inggris (Irlandia)] language!
+2026-10-20 15:47:33: -- [Inggris (Irlandia)] language diklik!
+2026-10-20 15:47:36: -- Input title
+2026-10-20 15:47:40: -- Input description
+2026-10-20 15:47:47: -- Perbarui di klik!
+2026-10-20 15:47:50: 11 - Uploading [Inggris (Kanada)]
+2026-10-20 15:47:56: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:47:57: -- paper_list bahasa ditemukan
+2026-10-20 15:47:57: -- Scroll to [Inggris (Kanada)] language!
+2026-10-20 15:47:58: -- [Inggris (Kanada)] language diklik!
+2026-10-20 15:48:02: -- Input title
+2026-10-20 15:48:05: -- Input description
+2026-10-20 15:48:13: -- Perbarui di klik!
+2026-10-20 15:48:17: 13 - Uploading [Jerman]
+2026-10-20 15:48:23: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:48:23: -- paper_list bahasa ditemukan
+2026-10-20 15:48:23: -- Scroll to [Jerman] language!
+2026-10-20 15:48:25: -- [Jerman] language diklik!
+2026-10-20 15:48:30: -- Input title
+2026-10-20 15:48:33: -- Input description
+2026-10-20 15:48:43: -- Perbarui di klik!
+2026-10-20 15:48:46: 14 - Uploading [Persia]
+2026-10-20 15:49:17: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:49:17: -- paper_list bahasa ditemukan
+2026-10-20 15:49:17: -- Scroll to [Persia] language!
+2026-10-20 15:49:19: -- [Persia] language diklik!
+2026-10-20 15:49:24: -- Input title
+2026-10-20 15:49:26: -- Input description
+2026-10-20 15:49:35: -- Perbarui di klik!
+2026-10-20 15:49:39: 16 - Uploading [Prancis]
+2026-10-20 15:49:45: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:49:45: -- paper_list bahasa ditemukan
+2026-10-20 15:49:45: -- Scroll to [Prancis] language!
+2026-10-20 15:49:47: -- [Prancis] language diklik!
+2026-10-20 15:49:51: -- Input title
+2026-10-20 15:49:55: -- Input description
+2026-10-20 15:50:00: -- Perbarui di klik!
+2026-10-20 15:50:04: 18 - Uploading [Spanyol (Meksiko)]
+2026-10-20 15:50:10: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:50:10: -- paper_list bahasa ditemukan
+2026-10-20 15:50:10: -- Scroll to [Spanyol (Meksiko)] language!
+2026-10-20 15:50:12: -- [Spanyol (Meksiko)] language diklik!
+2026-10-20 15:50:16: -- Input title
+2026-10-20 15:50:20: -- Input description
+2026-10-20 15:50:29: -- Perbarui di klik!
+2026-10-20 15:50:32: 19 - Uploading [Thai]
+2026-10-20 15:50:39: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:50:40: -- paper_list bahasa ditemukan
+2026-10-20 15:50:40: -- Scroll to [Thai] language!
+2026-10-20 15:50:41: -- [Thai] language diklik!
+2026-10-20 15:50:47: -- Input title
+2026-10-20 15:50:51: -- Input description
+2026-10-20 15:51:00: -- Perbarui di klik!
+2026-10-20 15:51:05: 20 - Uploading [Tionghoa (Tiongkok)]
+2026-10-20 15:51:12: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:51:12: -- paper_list bahasa ditemukan
+2026-10-20 15:51:12: -- Scroll to [Tionghoa (Tiongkok)] language!
+2026-10-20 15:51:14: -- [Tionghoa (Tiongkok)] language diklik!
+2026-10-20 15:51:19: -- Input title
+2026-10-20 15:51:21: -- Input description
+2026-10-20 15:51:26: -- Perbarui di klik!
+2026-10-20 15:51:29: 21 - Uploading [Turki]
+2026-10-20 15:51:35: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:51:35: -- paper_list bahasa ditemukan
+2026-10-20 15:51:35: -- Scroll to [Turki] language!
+2026-10-20 15:51:37: -- [Turki] language diklik!
+2026-10-20 15:51:41: -- Input title
+2026-10-20 15:51:44: -- Input description
+2026-10-20 15:51:54: -- Perbarui di klik!
+2026-10-20 15:51:55: -- ERROR element Turki. error: Message: element click intercepted: Element <button class="ytcpButtonShapeImplHost ytcpButtonShapeImpl--filled ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment" title="" aria-label="Perbarui" aria-disabled="false" tabindex="0" style="">...</button> is not clickable at point (1148, 174). Other element would receive the click: <ytcp-hashtag-suggestion role="option" class="style-scope ytcp-social-suggestions-dropdown" aria-label="#sortsvideo965&nbsp;rb video • 157&nbsp;rb channel" id="social-suggestion-3">...</ytcp-hashtag-suggestion>
+  (Session info: chrome=155.0.8059.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff6455ae745]
+	(No symbol) [0x7ff645163d00]
+	(No symbol) [0x7ff644f93f3d]
+	(No symbol) [0x7ff644ff74e3]
+	(No symbol) [0x7ff644ff50da]
+	(No symbol) [0x7ff644ff2417]
+	(No symbol) [0x7ff644ff12d0]
+	(No symbol) [0x7ff644fe3278]
+	(No symbol) [0x7ff645018ada]
+	(No symbol) [0x7ff644fe2af6]
+	(No symbol) [0x7ff645044b5a]
+	(No symbol) [0x7ff644fe1462]
+	(No symbol) [0x7ff644fe2273]
+	(No symbol) [0x7ff6456517b1]
+	(No symbol) [0x7ff6456887c7]
+	(No symbol) [0x7ff64567c85e]
+	(No symbol) [0x7ff64532884e]
+	(No symbol) [0x7ff645170415]
+	(No symbol) [0x7ff64516bdf4]
+	(No symbol) [0x7ff64516bf84]
+	(No symbol) [0x7ff645157f7c]
+	(No symbol) [0x7ffa1dab53e0]
+	(No symbol) [0x7ffa1e6a485b]
+
+2026-10-20 15:51:57: 22 - Uploading [Urdu]
+2026-10-20 15:52:04: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:52:04: -- paper_list bahasa ditemukan
+2026-10-20 15:52:04: -- Scroll to [Urdu] language!
+2026-10-20 15:52:06: -- [Urdu] language diklik!
+2026-10-20 15:52:10: -- Input title
+2026-10-20 15:52:14: -- Input description
+2026-10-20 15:52:23: -- Perbarui di klik!
+2026-10-20 15:52:27: 23 - Uploading [Vietnam]
+2026-10-20 15:52:33: -- Tombol [Tambahkan bahasa] di klik!
+2026-10-20 15:52:33: -- paper_list bahasa ditemukan
+2026-10-20 15:52:33: -- Scroll to [Vietnam] language!
+2026-10-20 15:52:35: -- [Vietnam] language diklik!
+2026-10-20 15:52:39: -- Input title
+2026-10-20 15:52:41: -- Input description
+2026-10-20 15:52:51: -- Perbarui di klik!
+2026-10-20 15:52:56: Uploaded content in many lang completed!
+2026-10-20 15:53:05: Getting available language
+2026-10-20 15:53:13: Found 35 available language
+2026-10-20 15:53:13: Load to csv
+2026-10-20 15:53:13: Completed!

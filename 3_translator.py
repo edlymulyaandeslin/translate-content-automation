@@ -6,7 +6,6 @@ from pathlib import Path
 
 import pandas as pd
 
-
 driver = create_driver()
 
 def translate_language(title, description, language, attribs_col):
@@ -89,24 +88,24 @@ else:
     df_result = pd.DataFrame(columns=attribs_col)
 
 exists_lang = set(df_result['lang_code'].dropna())
+try:
+    log_progress("Start Transleting!")
+    for lang in languages.itertuples():
+        if lang.code in exists_lang:
+            continue
 
-log_progress("Start Transleting!")
-for lang in languages.itertuples():
-    if lang.code in exists_lang:
-        continue
+        log_progress(f"{lang.Index + 1} - translating to {lang.language_name} language")
+        df_translate, success = translate_language(title, description, lang, attribs_col)
 
-    log_progress(f"{lang.Index + 1} - translating to {lang.language_name} language")
-    df_translate, success = translate_language(title, description, lang, attribs_col)
+        if not success:
+            log_progress(f"ERROR - translating to {lang.language_name} language")
+            continue
 
-    if not success:
-        log_progress(f"ERROR - translating to {lang.language_name} language")
-        continue
+        df_result = pd.concat([df_result, df_translate], ignore_index=True)
+        
+        # save to file
+        load_to_csv(df_result)
 
-    df_result = pd.concat([df_result, df_translate], ignore_index=True)
-    
-    # save to file
-    load_to_csv(df_result)
-
-log_progress("Translation content completed!")
-
-driver.quit()
+    log_progress("Translation content completed!")
+finally:
+    driver.quit()

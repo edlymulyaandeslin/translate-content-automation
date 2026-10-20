@@ -1,26 +1,28 @@
 #!/usr/bin/env python
 
 from pathlib import Path
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+import subprocess, psutil
 from utilities.utils import root_dir
 
 BASE_DIR = root_dir(Path(__file__))
+PROFILE_DIR = BASE_DIR / "profiles" / "e09_yt"
+CHROME_PATH = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
-PROFILE_DIR = BASE_DIR / "chrome_profile"
-CHROMEDRIVER_PATH = BASE_DIR / "chromedriver.exe"
+PROFILE_DIR.mkdir(parents=True, exist_ok=True)
 
-options = webdriver.ChromeOptions()
-options.add_argument(f"--user-data-dir={PROFILE_DIR}")
+process = subprocess.Popen([
+    CHROME_PATH,
+    f"--user-data-dir={PROFILE_DIR}"
+])
 
-service = Service(executable_path=str(CHROMEDRIVER_PATH))
+input("Tekan ENTER untuk menutup chrome..")
 
-driver = webdriver.Chrome(service=service, options=options)
+parent = psutil.Process(process.pid)
+processes = parent.children(recursive=True)
 
-try:
-    driver.get("https://studio.youtube.com/")
+for proc in processes:
+    proc.terminate()
 
-    input("Setelah pesan muncul, tekan Enter...")
+parent.terminate()
 
-finally:
-    driver.quit()
+psutil.wait_procs([parent, *processes], timeout=5)
